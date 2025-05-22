@@ -1,4 +1,4 @@
-#### ASSESS
+# ASSESS
 
 This step in the Conservation Standards cycle involves specifying the
 basic parameters for your project and assessing your overall context. In
@@ -9,8 +9,8 @@ project’s geographic and/or thematic scope, your vision of what you hope to
 achieve, and the focal values you are prioritizing. Finally, it includes making
 sense of your project’s context, including identifying threats, opportunities,
 and key constituencies interested in or impacted by the project.
-###### **1A. ** **Define Purpose and Identify Project Team**
 
+**1A. ** **Define Purpose and Identify Project Team**
 
 **Define Purpose of Conservation**
 **Standards Work**
@@ -116,10 +116,7 @@ whether any of these individuals should be part of your
 project team and, if so, determine how they might
 overcome any barriers to participation (if relevant).
 
-
-
-
-###### **1B. ** **Define Scope, Vision, and Focal Values**
+**1B. ** **Define Scope, Vision, and Focal Values**
 
 
 **Scope**
@@ -420,8 +417,7 @@ impact humans, both positively and negatively.
 
 
 
-**23
-###### **1C. Identify Critical Threats**
+**1C. Identify Critical Threats**
 
 Once you have settled on your priority biodiversity
 focal values, you need to use available evidence to
@@ -507,8 +503,7 @@ the threat to that human wellbeing element. You
 may need to consider how that threat might differ
 for human wellbeing versus biodiversity focal values.
 
-
-###### **1D. Assess the Conservation Situation**
+**1D. Assess the Conservation Situation**
 
 
 **Situation Analysis**

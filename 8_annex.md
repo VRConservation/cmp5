@@ -1,4 +1,6 @@
-#### ANNEX 1. GLOSSARY
+# ANNEXES
+
+## ANNEX 1. GLOSSARY
 
 There is an endless debate among planners as to the meaning of technical terms
 such as *goals, objectives, targets, milestones, impacts, outcomes, results*, and
@@ -869,14 +871,7 @@ marginalized groups are respected and protected.
 
 **2**
 
-**3**
-
-**4**
-
-**5**
-
-**89** **CONSERVATION STANDARDS** V 5.0
-#### ANNEX 2. DEFINITIONS OF AND CRITERIA FOR KEY TERMS
+## ANNEX 2. DEFINITIONS OF AND CRITERIA FOR KEY TERMS
 
 
 **Descriptions of Criteria**
@@ -1008,21 +1003,13 @@ to measure an indicator
 
 **1**
 
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**90** **CONSERVATION STANDARDS** V 5.0
-#### ANNEX 3. GENERAL PRINCIPLES AND CONSIDERATIONS
+0
+## ANNEX 3. GENERAL PRINCIPLES AND CONSIDERATIONS
 
 There are some essential principles that apply to all steps in the Conservation
 Standards. Instead of listing them for each step, we describe them here.
 
-###### **General Principles **
+**General Principles **
 
 - **Collaborate with partners** – One conservation
 organization is unlikely to have sufficient
@@ -1158,7 +1145,7 @@ culture will likely require work and commitment
 from both lower and higher levels of each
 partner organization involved in the project.
 
-###### **Considerations **
+**Considerations **
 
 As you review and implement the Conservation
 Standards, keep in mind the following considerations:
@@ -1352,20 +1339,13 @@ Table 1 for updates for this current version)
 
 **2**
 
-**3**
-
-**4**
-
-**5**
-
-**93** **CONSERVATION STANDARDS** V 5.0
-#### ANNEX 4. SUMMARY OF STANDARDS OF PRACTICE AND OUTPUTS
+## ANNEX 4. SUMMARY OF STANDARDS OF PRACTICE AND OUTPUTS
 
                   Numbers denote steps and sub steps, and diamond bullets ( **◊** )
 denote outputs. Not all standards or outputs are appropriate under
 all conditions or for all projects, so you should adapt as needed.
 
-###### **1. Assess**
+**1. Assess**
 
 **1A.**
 **Define Purpose & Identify**
@@ -1436,7 +1416,8 @@ primary interests
 description, and/or other representation of
 key cause-and-effect relationships among
 factors affecting your project context
-###### **2. Plan **
+
+**2. Plan **
 
 **2A.** **Develop a Formal Strategic Plan:**
 **Goals, Actions, Assumptions,**
@@ -1497,7 +1478,8 @@ resources
 **◊** Estimate of project lifespan and transition
 
 strategy
-###### **3. Implement **
+
+**3. Implement **
 
 **Revisit Team Structure and Process**
 **3A.**
@@ -1544,7 +1526,8 @@ and schedule
 organization, funders, and other interested
 parties
 
-###### **4. Analyze & Adapt**
+
+**4. Analyze & Adapt**
 
 **4A. Prepare Your Data for Analysis**
 
@@ -1573,7 +1556,8 @@ operational plan, work plan, and budget
 **◊** Documentation of evidence, discussions,
 lessons learned, potential risks or
 uncertainties, and decisions
-###### **5. Share**
+
+**5. Share**
 
 **Document What You Learn**
 **5A.**
@@ -1608,4 +1592,4 @@ and innovation
 
 **◊** A commitment to share successes and 
 failures with practitioners around the world
-###### **Close the Loop**
+*Close the Loop**

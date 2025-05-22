@@ -1,4 +1,4 @@
-#### IMPLEMENT
+# IMPLEMENT
 
 In this important step, your team will use project management principles
 to put into action the planning work you did in Steps 1 and 2. Step 3
@@ -11,7 +11,7 @@ of the implementing team’s organizational policies and procedures and
 move into implementation, don’t aim for perfection or wait for all the
 pieces to be in place. Work plans (and strategic plans) evolve over time.
 
-###### **3A. Revisit Team Structure ** **     and Process**
+**3A. Revisit Team Structure ** **     and Process**
 
 Likewise, even teams evolve over time. Sometimes,
 
@@ -73,7 +73,7 @@ can more easily bring new team members on board.
 
 
 **57** **CONSERVATION STANDARDS** V 5.0
-###### - **3B. Develop a Detailed, Short term Work Plan ** **and Timeline**
+**3B. Develop a Detailed, Short term Work Plan ** **and Timeline**
 
 
 In the previous steps of the Conservation
@@ -244,9 +244,7 @@ Activity
 
 Monitoring Activity
 
-
-**59** **CONSERVATION STANDARDS** V 5.0
-###### **3C. ** **Develop and Refine Your Project Budget**
+**3C. ** **Develop and Refine Your Project Budget**
 
 Your work plan is a critical input for developing
 a project budget. You should now have a clear
@@ -432,21 +430,7 @@ on the adaptations you might need to make and
 determine whether your overall project can still be
 effective and if it makes sense to continue forward.
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-
-**62** **CONSERVATION STANDARDS** V 5.0
-###### **3D. Implement Your Plans**
+ **3D. Implement Your Plans**
 
 Implementing your project involves putting your
 strategic, monitoring, and operational plans into action
@@ -490,16 +474,6 @@ different formats for reporting progress on actions
 that may resonate with different audiences.
 
 
-**3**
-
-**4**
-
-**5**
-
-
-**1**
-
-**2**
 
 
 FIGURE **20** **Example of Progress Reporting in Table Format**

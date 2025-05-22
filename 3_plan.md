@@ -1,4 +1,4 @@
-#### PLAN
+# PLAN
 
 This step in the Conservation Standards cycle focuses on developing key components
 of your overall **conservation plan** . Specifically, it involves using and building on
@@ -40,8 +40,7 @@ These elements may help your team and senior
 managers determine whether to continue with
 a specific action or even your overall project.
 
-**33** **CONSERVATION STANDARDS** V 5.0
-###### **2A.  Develop a Formal Strategic Plan: ** **Goals, Actions, Assumptions, and Objectives**
+**2A.  Develop a Formal Strategic Plan: ** **Goals, Actions, Assumptions, and Objectives**
 
 
 **Goals**
@@ -108,19 +107,6 @@ needed for a healthy human wellbeing focal value.
 
 
 
-**1**
-
-**2**
-
-**3**
-
-
-**4**
-
-**5**
-
-**34** **CONSERVATION STANDARDS** V 5.0
-
 In a conservation project, these attributes are
 typically tied to the ecosystem services provided by
 a biodiversity focal value and/or expected results
@@ -151,18 +137,6 @@ about what your project can and cannot achieve.
 Remember that all human wellbeing goals should be
 developed in partnership with the relevant groups
 identified in your interested parties assessment.
-
-
-**1**
-
-**2**
-
-**3**
-
-
-**4**
-
-**5**
 
 
 
@@ -217,34 +191,8 @@ shows an example of key intervention points and
 actions (depicted as hexagons) to address them.
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**36** **CONSERVATION STANDARDS** V 5.0
-
 FIGURE **9** **Example Situation Model with Key Intervention Points (Bolded Boxes) and Actions**
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-
-**37** **CONSERVATION STANDARDS** V 5.0
 
 **Deciding How and Where**
 **You Will Intervene**
@@ -279,23 +227,10 @@ to influence your identified key intervention points.
 
 
 
-**1**
-
-**2**
-
-
-**3**
-
-**4**
-
-
-**5**
-
-
 9 In CS 5.0, we have substituted the term “action” for the previously used term “strategy” to better fit how the rest of the world uses these terms. An action
 is now a component of a broader strategy.
 
-**38** **CONSERVATION STANDARDS** V 5.0
+
 
 FIGURE 10
 **Simplified Spatial Maps Depicting Chimpanzee Protected Area Strategy**
@@ -303,17 +238,6 @@ FIGURE 10
 Agricultural conversion threat & habitat loss Candidate protected areas to limit future conversion
 
 *Source: Adapted for Conservation Standards use by Lilian Pintea, Jane Goodall Institute*
-
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
 
 
 It is good practice to test your actions to see how
@@ -353,41 +277,6 @@ strategy design phase, as strategies and actions
 may need adaptations or considerations to avoid,
 minimize, or mitigate potential negative effects.
 
-**39** **CONSERVATION STANDARDS** V 5.0
-
-
-**1**
-
-**2**
-
-
-
-**3**
-
-**4**
-
-
-
-**5**
-
-
-
-**40** **CONSERVATION STANDARDS** V 5.0
-
-
-
-
-**1**
-
-**2**
-
-
-
-**3**
-
-**4**
-
-**5**
 
 
 **Assumptions &**
@@ -431,8 +320,6 @@ provide a simple way of organizing goals and objectives, but, unlike results cha
 are more similar to results chains, but results chains have the flexibility to show more detail, branching, and the direct relationship between one result and
 another.
 
-**41** **CONSERVATION STANDARDS** V 5.0
-
 Often, your results chains (and, more broadly,
 your theories of change) will include key **activities**
 needed to implement your action successfully.
@@ -470,17 +357,6 @@ clarify logic to specific outcomes to focal values
 Result chains show the anticipated results – the “desired state of the world”
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**42** **CONSERVATION STANDARDS** V 5.0
 
 FIGURE **12** **Example Results Chain for Promoting Climate-Smart Urban Approaches in Watershed Site**
 
@@ -489,15 +365,6 @@ Situation Model
 Converted to a
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
 
 
 Sample objectives
@@ -576,45 +443,17 @@ increased logger incomes (which is also a necessary
 result for conservation) and via ecosystem services.
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
 
 
 FIGURE **13** **Example Results Chain Extract with Ecosystem Services and Human Wellbeing Focal Values**
 
 
 
-
-
-
-**44** **CONSERVATION STANDARDS** V 5.0
-
 FIGURE **14** **High** - **level Relationships of How Conservation Actions Can Contribute to Human Wellbeing**
 
 FIGURE **15**
 **Example of Conservation Action Directly Benefiting Humans**
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-
-**45** **CONSERVATION STANDARDS** V 5.0
 
 Results chains can be used to show the **outcomes**
 of the project’s specific work, as well as longer-term
@@ -645,15 +484,6 @@ Focal value is
 more general
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
 
 
 
@@ -722,36 +552,8 @@ and store documents. A clear system will help
 you keep all relevant data and documentation
 organized, accessible, and easily updated.
 
+**2B.  Develop a Formal Monitoring, Evaluation, ** **and Learning Plan**
 
-
-
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-
-
-**47** **CONSERVATION STANDARDS** V 5.0
-##### **2B.  Develop a Formal Monitoring, Evaluation, ** **and Learning Plan**
-
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
 
 
 This sub-step includes outlining monitoring,
@@ -1083,7 +885,7 @@ TABLE **3** **Extract of a Monitoring Plan for Promoting Climate-Smart Urban App
 
 
 **53** **CONSERVATION STANDARDS** V 5.0
-###### **2C.  Develop an Operational Plan**
+**2C.  Develop an Operational Plan**
 
 
 Conservation projects are ultimately implemented

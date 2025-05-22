@@ -35,10 +35,7 @@ site:
     favicon: images/favicon.ico
     logo: images/logo.png
   nav:
-    - title: Conservation Finance
-      url: https://confinance.info
-    - title: FBA Guide
-      url: https://forestbiz.info
-    - title: Open Geospatial
-      url: https://3point.xyz/geosp
-
+    - title: CMP
+      url: https://www.conservationmeasures.org/
+    - title: Open Standards
+      url: https://www.conservationstandards.org/download-cs/
