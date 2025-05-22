@@ -2,13 +2,13 @@
 version: 1
 project:
   id: ab440adc-2db2-4534-8548-ad2b03879434
-  title: JPA Funding
-  subtitle: GFunding wood aggregation units
+  title: CMP v5
+  subtitle: Open Standards for the Practice of Conservation
   jupyter: false
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/VRConservation/neca_jpa
+  github: https://github.com/VRConservation/cmp5
   # To autogenerate a Table of Contents, run "myst init --write-toc"
  
   numbering:
