@@ -31,7 +31,7 @@ project:
 site:
   template: book-theme
   options:
-    # logo_text: Introduction to GIS Programming
+
     favicon: images/favicon.ico
     logo: images/logo.png
   nav:
