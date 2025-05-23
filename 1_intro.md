@@ -40,7 +40,7 @@ CMP is inspired by a vision that conservation impacts around the world are ampli
 - For a full description of member commitments, see [CMP’s Charter](https://www.conservationmeasures.org/about-cmp/#mission&vision).
 
 ## Purpose
-To help conservation teams realize this vision, the Conservation Standards provide a set of best practices for the successful implementation of conservation projects, [2] oriented around a five-step management cycle:
+To help conservation teams realize this vision, the Conservation Standards provide a set of best practices for the successful implementation of conservation projects,[^2] oriented around a five-step management cycle:
 
 **START AT THE APPROPRIATE STEP FOR YOUR WORK**<br>
 Not all teams will start at Step 1 of the Conservation Standards. Each team should consider what work they have done already and where they are in their project management cycle, using existing work as inputs to the Conservation Standards process. In some cases, teams may find it makes sense to enter the process at a later step and come back to earlier ones as they learn more about their situation.
@@ -49,9 +49,9 @@ The Conservation Standards are not an instruction manual to be followed exactly.
 
 This document intentionally focuses on standards – high-level practices and principles – not “how-to” guidance, which is available from various resources that CMP and Conservation Standards community members have developed (see later section on Support for Implementing the Conservation Standards).
 
-We encourage feedback from anyone who uses these Conservation Standards (email us [at CMPinfo@conservationmeasures.org).](mailto:CMPinfo%40conservationmeasures.org?subject=)
+We encourage feedback from anyone who uses these Conservation Standards email us at [CMPinfo@conservationmeasures.org](mailto:CMPinfo@40conservationmeasures.org).
 
-2 All conservation efforts at any scale can be explicitly or implicitly described as projects – a set of actions undertaken by a defined group of practitioners – including managers, researchers, community members, or other actors – to achieve defined goals and objectives. When thinking about scale, however, it can also be useful to organize groups of related projects into larger programs. These programs often serve as an administrative or funding unit, but they also may have their own higher-level goals, objectives, and actions – in effect, acting as a higher order project. In this document, we use the term “project” to represent both projects and programs at all scales.
+[^2]: All conservation efforts at any scale can be explicitly or implicitly described as projects – a set of actions undertaken by a defined group of practitioners – including managers, researchers, community members, or other actors – to achieve defined goals and objectives. When thinking about scale, however, it can also be useful to organize groups of related projects into larger programs. These programs often serve as an administrative or funding unit, but they also may have their own higher-level goals, objectives, and actions – in effect, acting as a higher order project. In this document, we use the term “project” to represent both projects and programs at all scales.
 
 ## Evolution
 The Conservation Standards are a product of the collaborative work of the Conservation Measures Partnership. Version 1.0 (2004) drew upon the results of the Measuring Conservation Impact Initiative, a 2002 study that reviewed experiences across seven fields, including conservation, to determine common approaches to good project design, management, and monitoring.
