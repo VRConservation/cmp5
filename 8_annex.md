@@ -3,20 +3,17 @@
 ## 1. Glossary
 There is an endless debate among planners as to the meaning of technical terms such as *goals, objectives, targets, milestones, impacts, outcomes, results*, and *outputs* . It seems that each organization, agency, project, and individual have their own preferred set of terms. There is no right answer – the most important thing is that the members of your project team and the people with whom you work have a clear and common understanding of whichever terms you choose to use. Nevertheless, there are advantages to having a standard glossary. To this end, technical terms in this document were carefully selected, bolded when first used, consistently used thereafter, and defined in this glossary.
 
-**Guide to Glossary Entries**
-
 **Action** ( *intervention* ) – A set of *activities* with a common focus that work together to achieve specific *goals* and *objectives* by targeting *key intervention points*, optimizing opportunities, and limiting constraints. A good action meets the criteria of being linked, focused, feasible, and appropriate. Compare to *activity* and *strategy*.
 
 **Key Changes in Version 5.0**
 There are a couple of notable changes in terminology in CS 5.0. These include:
 
-- **Switching the use of the terms** ***target*** **and** ***value*** – [As outlined in WCPA 2024, there is linguistic confusion](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.14269) here that people have been struggling to clean up for years. Terms are needed that describe both:
+- **Switching the use of the terms target and value** – As outlined in [WCPA 2024](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.14269) there is linguistic confusion here that people have been struggling to clean up for years. Terms are needed that describe both:
 
- **▫** Concept A: a factor in the system that a project team seeks to ultimately affect.
+- Concept A: a factor in the system that a project team seeks to ultimately affect.
+- Concept B: the quantitative or qualitative measurement of an indicator to be achieved as part of a SMART goal or objective.
 
- **▫** Concept B: the quantitative or qualitative measurement of an indicator to be achieved as part of a SMART goal or objective.
-
-**** CMP’s CS 4.0 and earlier use *target* to refer to Concept A and *desired future values* to refer to Concept B. In contrast, global fora, such as the CBD and WCPA, use *target* to refer to Concept B and *value* to refer to Concept A. Recognizing that we cannot shift these global conventions, we are adopting their use of these words, using *focal value* as the replacement for what CS 4.0 called a *target*.
+CMP’s CS 4.0 and earlier use *target* to refer to Concept A and *desired future values* to refer to Concept B. In contrast, global fora, such as the CBD and WCPA, use *target* to refer to Concept B and *value* to refer to Concept A. Recognizing that we cannot shift these global conventions, we are adopting their use of these words, using *focal value* as the replacement for what CS 4.0 called a *target*.
 
 - **Changing the use of the terms** ***action*** **and** ***strategy*** – CS 4.0 defines a *strategy* as a set of *activities* with a common focus and an *action* as a general term used to refer to the work of conservation teams, including strategies, activities, and tasks. This is inconsistent with how the development, business, and military sectors use these terms. As such, we have adapted our use of terms to follow the hierarchy of intervention: *strategy, action, activity, task*.
 
