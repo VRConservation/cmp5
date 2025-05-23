@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/6_share.pdf
+      article_type: Report
+---
+
 # SHARE
 This step in the Conservation Standards cycle involves sharing lessons and formal products with key internal and external audiences. It also involves giving and receiving feedback and promoting a learning culture. Encouraging learning within your project team, as well as with partners and interested parties, is crucial. The insights gained through reflection will be valuable for each step in your next project cycle and will provide learning opportunities for everyone involved. It is also important to promote learning at an institutional level and, more generally, across the conservation community. With this in mind, the Conservation Standards include practices that your project team and organization could adopt to help foster learning and sharing.
 

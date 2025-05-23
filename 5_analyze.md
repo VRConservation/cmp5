@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/5_analyze.pdf
+      article_type: Report
+---
+
 # ANALYZE & ADAPT
 This step of the Conservation Standards involves managing data as they come in and regularly analyzing them to convert them into useful information and knowledge. In particular, you need to analyze your project’s results, core assumptions, key uncertainties, feedback from interested parties, any grievances raised, and relevant operational and financial data, and then adapt your work plan as necessary. The monitoring system you set up in Step 2 (Plan) will support you in your analyses. If your team is entering the Conservation Standards cycle at the Analyze & Adapt Step, the data and lessons you gather can inform your work going forward, overlapping with or feeding directly into other steps in the cycle. The depth of analysis at this stage can range from very simple and fast to time intensive and complex. As with the selection of monitoring methods, you should make sure that the depth of your analysis matches the level of evidence required by your situation and your audiences’ information needs. Moreover, as with all steps in the Conservation Standards, it's important to foster a learning environment to ensure teams are comfortable reflecting and recognizing failures, in addition to successes.
 

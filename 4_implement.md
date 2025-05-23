@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/4_implement.pdf
+      article_type: Report
+---
+
 # IMPLEMENT
 In this important step, your team will use project management principles to put into action the planning work you did in Steps 1 and 2. Step 3 involves developing and implementing specific work plans (Figure 8), while ensuring sufficient resources (people, equipment, and funding), skills, knowledge, and partners. All of this work should be done within the context of the implementing team’s organizational policies and procedures and decision making processes for approving work plans and budgets. As you move into implementation, don’t aim for perfection or wait for all the pieces to be in place. Work plans (and strategic plans) evolve over time.
 

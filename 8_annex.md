@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/8_annex.pdf
+      article_type: Report
+---
+
 # ANNEXES
 
 ## 1. Glossary

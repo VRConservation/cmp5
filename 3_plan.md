@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/3_plan.pdf
+      article_type: Report
+---
+
 # PLAN
 This step in the Conservation Standards cycle focuses on developing key components of your overall **conservation plan** . Specifically, it involves using and building on your work in the Assess Step to define and develop your project’s scope, actions, theories of change, and associated goals and objectives (i.e., your **strategic plan** ). It also involves clarifying specific **information needs** and indicators and how you will monitor these ( **monitoring plan** ) and laying out how you will operationalize your work, considering various institutional and contextual factors ( **operational plan** ). As shown in Figure 8, all this information contributes to your overall conservation plan. Step 3 Implement includes more information on the work plan element.
 
@@ -39,11 +51,11 @@ FIGURE **9** **Example Situation Model with Key Intervention Points (Bolded Boxe
 
 
 **Deciding How and Where You Will Intervene**
-Your key intervention points help you determine where you need to consider conservation actions to influence your overall situation. The Conservation Standards define an **action** as a set of one or more **activities** with a common focus that work together to achieve specific goals and objectives by targeting these key intervention points, optimizing opportunities, and limiting constraints. [9] Actions should meet the following criteria: *linked, focused,* *feasible*, and *appropriate* (see Annex 2). Actions are implemented in the context of a **strategy**, which includes one or more actions and their associated expected results and goals and objectives.
+Your key intervention points help you determine where you need to consider conservation actions to influence your overall situation. The Conservation Standards define an **action** as a set of one or more **activities** with a common focus that work together to achieve specific goals and objectives by targeting these key intervention points, optimizing opportunities, and limiting constraints.[^9] Actions should meet the following criteria: *linked, focused,* *feasible*, and *appropriate* (see Annex 2). Actions are implemented in the context of a **strategy**, which includes one or more actions and their associated expected results and goals and objectives.
 
 There are many types of actions that can be used for different purposes, such as directly managing ecosystems or species, influencing human behaviors (Box 7), or creating **enabling conditions** that [contribute to strategy effectiveness (see IUCN-CMP](https://conservationstandards.org/library-item/threats-and-actions-taxonomies/) [Conservation Actions Classification for a complete](https://conservationstandards.org/library-item/threats-and-actions-taxonomies/) list of potential actions). Working off your situation analysis, you should generate a list of possible actions to influence your identified key intervention points.
 
- 9 In CS 5.0, we have substituted the term “action” for the previously used term “strategy” to better fit how the rest of the world uses these terms. An action is now a component of a broader strategy.
+ [^9]: In CS 5.0, we have substituted the term “action” for the previously used term “strategy” to better fit how the rest of the world uses these terms. An action is now a component of a broader strategy.
 
 FIGURE 10
 **Simplified Spatial Maps Depicting Chimpanzee Protected Area Strategy**
@@ -57,16 +69,15 @@ It is good practice to test your actions to see how well they work before implem
 Finally, it is important that your project has appropriate environmental and **social safeguards** in place. This involves assessing approaches to avoid or mitigate potential adverse social and environmental effects of your actions, especially on interested parties with low influence and high interest. Throughout the project, your team will need to regularly consider the vulnerability, dignity, human rights, traditional knowledge, land and resource ownership, and cultural heritage and practices of affected groups. It is important to identify unintended consequences, feedback loops, and tradeoffs that can occur and that can affect people, biodiversity, and your project itself. While it is useful and prudent to review social and environmental safeguards throughout the project cycle, it is especially important in the strategy design phase, as strategies and actions may need adaptations or considerations to avoid, minimize, or mitigate potential negative effects.
 
 **Assumptions & Theories of Change**
-Once your team has selected your actions, you should clarify the causal **assumptions** about how you think each action will help you achieve **intermediate results** and longer-term biodiversity and human wellbeing goals. These assumptions, as well as assumptions about other factors that need to be in place for your action to succeed, represent your **theory of change** . Your theory of change can be expressed in text, diagrammatic (i.e., **results chain** ), or other forms. [10] If you portray your situation analysis in a situation model, you can use that as the basis for developing your results chains (Figure 11 shows a generic example, while Figure 12 shows an example based off of Figure 9). Doing so helps you explicitly show how your action is intended to affect the current state (portrayed in your situation model) to achieve the desired state (portrayed in your results chain). While the results and assumptions in your theories of change should be based on existing evidence, some assumptions may lack evidence. As such, your team may have uncertainty about whether your expected results can be achieved and if there are potential risks of undesirable outcomes. It is important to identify and prioritize these evidence gaps for attention (e.g., the dotted line in Figure 12 indicates an uncertainty in the team’s assumptions).
-
-10 While some people think that results chains are the same as logical frameworks (logframes) or logic models, they differ in important ways. Logframes provide a simple way of organizing goals and objectives, but, unlike results chains, they do not explicitly link actions, objectives, and goals. Logic models are more similar to results chains, but results chains have the flexibility to show more detail, branching, and the direct relationship between one result and another.
+Once your team has selected your actions, you should clarify the causal **assumptions** about how you think each action will help you achieve **intermediate results** and longer-term biodiversity and human wellbeing goals. These assumptions, as well as assumptions about other factors that need to be in place for your action to succeed, represent your **theory of change** . Your theory of change can be expressed in text, diagrammatic (i.e., **results chain** ), or other forms.[^10] If you portray your situation analysis in a situation model, you can use that as the basis for developing your results chains (Figure 11 shows a generic example, while Figure 12 shows an example based off of Figure 9). Doing so helps you explicitly show how your action is intended to affect the current state (portrayed in your situation model) to achieve the desired state (portrayed in your results chain). While the results and assumptions in your theories of change should be based on existing evidence, some assumptions may lack evidence. As such, your team may have uncertainty about whether your expected results can be achieved and if there are potential risks of undesirable outcomes. It is important to identify and prioritize these evidence gaps for attention (e.g., the dotted line in Figure 12 indicates an uncertainty in the team’s assumptions).
 
 Often, your results chains (and, more broadly, your theories of change) will include key **activities** needed to implement your action successfully. Adding these activities can help clarify how you expect to achieve one or more specific results. It is also useful to make sure your results contain information about key psychological and social states ( **psycho** - **social states** ), including actors’ beliefs, attitudes, knowledge, and context for their behavior. This will help clarify why you think specific activities will lead to behavioral outcomes. This is a good point to consider your team’s ability to make accurate assumptions about the actors involved, their behavior, and the power dynamics or barriers they may face in changing the situation.
+
+[^10]: While some people think that results chains are the same as logical frameworks (logframes) or logic models, they differ in important ways. Logframes provide a simple way of organizing goals and objectives, but, unlike results chains, they do not explicitly link actions, objectives, and goals. Logic models are more similar to results chains, but results chains have the flexibility to show more detail, branching, and the direct relationship between one result and another.
 
 
 FIGURE **11** **Generic Situation Model Factors with Associated Results Chain**
 Chain of factors Converted to an initial result chain Key activities help Objectives are linked Goals are linked clarify logic to specific outcomes to focal values Result chains show the anticipated results – the “desired state of the world”
-
 
 FIGURE **12** **Example Results Chain for Promoting Climate-Smart Urban Approaches in Watershed Site**
 
