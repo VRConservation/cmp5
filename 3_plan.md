@@ -28,19 +28,9 @@ FIGURE **8**
 *Source: Adapted from Stewart 2016. Operationalising the Open Standards for the Practice of Conservation*
 
 
-As with many of the Conservation Standards steps
-and sub-steps, much of what you do in this step will
-be iterative. For example, although you develop
-an operational plan in Step 2C, you may need to
-think about sustainability, **risks**, and transition
+As with many of the Conservation Standards steps and sub-steps, much of what you do in this step will be iterative. For example, although you develop an operational plan in Step 2C, you may need to think about sustainability, **risks**, and transition plans as you are choosing your actions in Step 2A. These elements may help your team and senior managers determine whether to continue with a specific action or even your overall project.
 
-
-plans as you are choosing your actions in Step 2A.
-These elements may help your team and senior
-managers determine whether to continue with
-a specific action or even your overall project.
-
-**2A.  Develop a Formal Strategic Plan: ** **Goals, Actions, Assumptions, and Objectives**
+**2A. Develop a Formal Strategic Plan: ** **Goals, Actions, Assumptions, and Objectives**
 
 
 **Goals**
@@ -93,7 +83,6 @@ just a matter of converting this viability information
 into a goal statement. As an example, a SMART
 goal for the forest corridor biodiversity focal value
 
-
 in Figure 6 might be: By 2035, the forest corridor
 linking the White River Watershed to Los Grillos is
 at least 5 km wide and remains unfragmented.
@@ -102,10 +91,6 @@ If a project has human wellbeing focal values,
 then goals should be set for these focal values.
 To do so, the team can define key attributes
 needed for a healthy human wellbeing focal value.
-
-
-
-
 
 In a conservation project, these attributes are
 typically tied to the ecosystem services provided by
@@ -138,9 +123,6 @@ Remember that all human wellbeing goals should be
 developed in partnership with the relevant groups
 identified in your interested parties assessment.
 
-
-
-**35** **CONSERVATION STANDARDS** V 5.0
 
 **Actions**
 
@@ -412,9 +394,6 @@ at “good” levels (as
 defined in viability
 assessment)
 
-
-
-**43** **CONSERVATION STANDARDS** V 5.0
 
 If your team identified human wellbeing focal values
 in your situation model, you should also use your
