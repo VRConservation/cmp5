@@ -11,65 +11,37 @@ Your monitoring data should help you fill knowledge gaps, review progress on imp
 
 To ensure your team is using your plan and monitoring data to learn and adapt, you should regularly review and reflect on your project. Some teams refer to the analysis as a **pause** **and** - **reflect** or reflect-and-adapt process. These exercises may occur at different times (e.g., quarterly, every six months, annually), in different settings (e.g., formal workshop, intentional conversations with a small group), and at different scales (e.g., project, program, portfolio). You may also hold these discussions in response to third-party evaluations or **audits** . Your team might find social science tools and approaches helpful to analyze the psychological, social, and behavioral parts of your theory of change.
 
-
 Consider these guiding questions in your analysis:
 
-- Has the context changed? If so, how does it impact
-your team’s work?
-- Did your team do what you set out to do? If not,
-why not?
-- Are you achieving what you expected to achieve?
-Why or why not?
--  Has your team seen changes in human behavior,
-beliefs, attitudes, or intentions? Are these a
-result of your work or changes in the context?
-- Are there unexpected negative results derived from
-your work?
-- Are there additional information needs,
-uncertainties, or risks your team needs to consider?
-- What decisions do you need to make based on this
-analysis?
+- Has the context changed? If so, how does it impact your team’s work?
+- Did your team do what you set out to do? If not, why not? 
+- Are you achieving what you expected to achieve? Why or why not? 
+- Has your team seen changes in human behavior, beliefs, attitudes, or intentions? Are these a result of your work or changes in the context? 
+- Are there unexpected negative results derived from your work? - Are there additional information needs, uncertainties, or risks your team needs to consider? 
+- What decisions do you need to make based on this analysis?
 
 There are many ways to facilitate and document your analysis. Figure 23 provides an extract of table formats that track progress towards implementation and results and allow easy documentation of changes needed or decisions made. Figure 24 is an example of a results chain with implementation and results tracking. The details of progress can be found in the progress notes, as demonstrated for the monitoring action SHARK M1. Review campaign records.
 
 FIGURE **23** **Example Tables with Implementation and Results Progress**
 
-
-
 FIGURE **24** **Example Results** **Chain-Based Theory of Change with Implementation and Results Progress**
 
 In addition to programmatic analyses, it is also important to consider whether the operational processes supporting your project are functioning properly. You may have a project that uses the perfect actions to address the threats and opportunities affecting your focal values, but your team may not be operating as efficiently as possible or does not have the administrative or financial support it needs to do its job well. To improve your understanding of what is truly happening, collaboration among all members of your team in these analyses is vital. Your operational analysis might explore the extent to which:
 
--  You have sufficient resources (e.g., financial, human,
+- You have sufficient resources (e.g., financial, human,
 administrative, political) to carry out your project;
--  You have the right skills among your team members
+- You have the right skills among your team members
 to implement your project well;
--  You have the physical infrastructure and equipment
+- You have the physical infrastructure and equipment
 (e.g., office space, vehicles, computers) you need to
 do your job;
--  You have functioning social safeguards in place; and/
+- You have functioning social safeguards in place; and/
 or
--  Your project team operates smoothly and
+- Your project team operates smoothly and
 equitably (e.g., communications, delegation of
 responsibilities).
 
-For learning and effective communication, it is
-important to involve the right people in the analyses
-and/or to share preliminary analyses with them. As
-a general rule, analyses should involve members
-of the project team, as they will have the deepest
-understanding of the project and overall situation.
-Depending on the context and where appropriate,
-team members may be conducting the analyses
-
-
-themselves, or they could help review and interpret
-analyses. However, teams should take care not to
-influence the findings unjustifiably. While team
-involvement is important, input from interested
-parties, outside experts, or those with other
-perspectives is also valuable and can help provide a
-balanced interpretation of monitoring results.
+For learning and effective communication, it is important to involve the right people in the analyses and/or to share preliminary analyses with them. As a general rule, analyses should involve members of the project team, as they will have the deepest understanding of the project and overall situation. Depending on the context and where appropriate, team members may be conducting the analyses themselves, or they could help review and interpret analyses. However, teams should take care not to influence the findings unjustifiably. While team involvement is important, input from interested parties, outside experts, or those with other perspectives is also valuable and can help provide a balanced interpretation of monitoring results.
 
 ## 4C. Adapt Your Plans and Budgets
 Collecting and analyzing data as part of routine monitoring activities allow you to determine how effective your interventions are and what adjustments are needed to reach your goals and objectives more efficiently. As the final part of this step, you should use what you learned during the analyses and discussions to modify (as needed) and optimize your portfolio of strategies and to periodically realign the allocation of resources (people and funds). This is the essence of good conservation practice and adaptive management.

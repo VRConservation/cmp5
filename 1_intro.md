@@ -83,16 +83,10 @@ FIGURE **1**
 
 
 **Open Standards for the Practice of Conservation Project Cycle**
-
-
 1. ASSESS Purpose & project Scope, vision, & focal values Critical threats Conservation situation
-
 2. PLAN Goals, actions, assumptions, & objectives Monitoring plan Operational plan
-
 3. IMPLEMENT Team structure & process Work plan & timeline Budget Implement plans
-
 4. ANALYZE & ADAPT Data preparation Analysis Adaptation of plans & budgets
-
 5. SHARE Documentation of learning Sharing learning Fostering learning 
 
 ## Implementation Support
