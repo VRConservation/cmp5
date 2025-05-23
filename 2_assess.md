@@ -10,7 +10,7 @@ achieve, and the focal values you are prioritizing. Finally, it includes making
 sense of your project’s context, including identifying threats, opportunities,
 and key constituencies interested in or impacted by the project.
 
-## 1A. ** **Define Purpose and Identify Project Team**
+## 1A. Define Purpose & Identify Team
 
 **Define Purpose of Conservation**
 **Standards Work**
@@ -115,7 +115,7 @@ whether any of these individuals should be part of your
 project team and, if so, determine how they might
 overcome any barriers to participation (if relevant).
 
-## 1B. ** **Define Scope, Vision, and Focal Values**
+## 1B. Define Scope, Vision, & Focal Values
 
 
 **Scope**
@@ -398,14 +398,11 @@ conservation team sets human wellbeing focal
 values, it is crucial to consider how your work will
 impact humans, both positively and negatively.
 
-
-
-
-## 1C. Identify Critical Threats**
+## 1C. Identify Critical Threats
 
 Once you have settled on your priority biodiversity focal values, you need to use available evidence to identify the direct threats (often called **pressures** ) [8] that influence them and the actors behind those threats. **Direct threats** are human actions (behaviors) that directly degrade one or more focal values (e.g., unsustainable fishing, oil drilling, dumping of industrial wastewater, or introduction of invasive species). Direct threats can also be natural phenomena altered by human activities (e.g., increase in extreme storms or increase in droughts due to climate change). See the [IUCN-CMP Direct Threats Classification](https://conservationstandards.org/library-item/iucn-cmp-threats-classification-version-4-0/) for more examples. Where possible, it can be helpful to map the spatial footprint of a threat. Doing so can help you better understand key threats, as well as the drivers behind them (see {numref}`maps` for an example from a chimpanzee project).
 
-```{figure} /figures/fig34.jpg
+```{figure} figures/fig34.jpeg
 :height: 500px
 :name: maps
 Simplified Spatial Maps Depicting Chimpanzee Focal Values and Threats with Chimpanzee habitat focal value (left) and Agricultural conversion threat & habitat loss (Right). Source: Adapted for Conservation Standards use by Lilian Pintea, Jane Goodall Institute
@@ -417,7 +414,7 @@ When identifying threats, it is important to specify the actors (e.g., specific 
 
 In order to concentrate your actions and resources where they are most needed, it is important to prioritize the direct threats that affect your biodiversity focal values. In particular, you should try to determine your **critical threats** – the ones that are most important to address. You can use a number of threat rating and ranking tools to help you prioritize. Most tools consider the extent of the threat and the severity of its impacts on the biodiversity focal values. Taken together, these two criteria assess overall threat magnitude. Other frequently used criteria include permanence/ irreversibility and urgency. Some common options for prioritizing threats include: an absolute rating of each threat as it affects different biodiversity focal values, a stress based rating which assesses the effect of stresses (altered key ecological attributes) on focal values and the contribution of different threats to the **stresses**, and a relative ranking which compares different threats to one another. It is important to consider the entire suite of direct threats and not limit your analysis to the threats your team or organization has the expertise or resources to anticipate and address. Also keep in mind that if an aspect of human wellbeing is particularly important, your team may want to rate the threat to that human wellbeing element. You may need to consider how that threat might differ for human wellbeing versus biodiversity focal values.
 
-## 1D. Assess the Conservation Situation**
+## 1D. Assess the Conservation Situation
 
 
 **Situation Analysis**

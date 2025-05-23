@@ -1,36 +1,18 @@
 # PLAN
-
-This step in the Conservation Standards cycle focuses on developing key components
-of your overall **conservation plan** . Specifically, it involves using and building on
-your work in the Assess Step to define and develop your project’s scope, actions,
-theories of change, and associated goals and objectives (i.e., your **strategic plan** ). It
-also involves clarifying specific **information needs** and indicators and how you will
-monitor these ( **monitoring plan** ) and laying out how you will operationalize your
-work, considering various institutional and contextual factors ( **operational plan** ).
-As shown in Figure 8, all this information contributes to your overall conservation
-plan. Step 3 Implement includes more information on the work plan element.
+This step in the Conservation Standards cycle focuses on developing key components of your overall **conservation plan** . Specifically, it involves using and building on your work in the Assess Step to define and develop your project’s scope, actions, theories of change, and associated goals and objectives (i.e., your **strategic plan** ). It also involves clarifying specific **information needs** and indicators and how you will monitor these ( **monitoring plan** ) and laying out how you will operationalize your work, considering various institutional and contextual factors ( **operational plan** ). As shown in Figure 8, all this information contributes to your overall conservation plan. Step 3 Implement includes more information on the work plan element.
 
 
-
-
-
+Needs a screenshot
 FIGURE **8**
 
-
-**Relationship among Different Plans**
-
-
-
-
-
-
+**Relationships among Different Plans**
 
 *Source: Adapted from Stewart 2016. Operationalising the Open Standards for the Practice of Conservation*
 
 
 As with many of the Conservation Standards steps and sub-steps, much of what you do in this step will be iterative. For example, although you develop an operational plan in Step 2C, you may need to think about sustainability, **risks**, and transition plans as you are choosing your actions in Step 2A. These elements may help your team and senior managers determine whether to continue with a specific action or even your overall project.
 
-**2A. Develop a Formal Strategic Plan: ** **Goals, Actions, Assumptions, and Objectives**
+## 2A. Develop Strategic Plan
 
 
 **Goals**
@@ -259,42 +241,8 @@ strategy design phase, as strategies and actions
 may need adaptations or considerations to avoid,
 minimize, or mitigate potential negative effects.
 
-
-
-**Assumptions &**
-**Theories of Change**
-
-Once your team has selected your actions, you
-should clarify the causal **assumptions** about
-how you think each action will help you achieve
-**intermediate results** and longer-term biodiversity
-and human wellbeing goals. These assumptions,
-as well as assumptions about other factors that
-need to be in place for your action to succeed,
-represent your **theory of change** . Your theory of
-change can be expressed in text, diagrammatic
-(i.e., **results chain** ), or other forms. [10]
-
-If you portray your situation analysis in a situation
-model, you can use that as the basis for developing
-
-
-your results chains (Figure 11 shows a generic
-example, while Figure 12 shows an example based
-off of Figure 9). Doing so helps you explicitly
-show how your action is intended to affect the
-current state (portrayed in your situation model)
-to achieve the desired state (portrayed in your
-results chain). While the results and assumptions
-in your theories of change should be based
-on existing evidence, some assumptions may
-lack evidence. As such, your team may have
-uncertainty about whether your expected results
-can be achieved and if there are potential risks of
-undesirable outcomes. It is important to identify
-and prioritize these evidence gaps for attention
-(e.g., the dotted line in Figure 12 indicates an
-uncertainty in the team’s assumptions).
+**Assumptions & Theories of Change**
+Once your team has selected your actions, you should clarify the causal **assumptions** about how you think each action will help you achieve **intermediate results** and longer-term biodiversity and human wellbeing goals. These assumptions, as well as assumptions about other factors that need to be in place for your action to succeed, represent your **theory of change** . Your theory of change can be expressed in text, diagrammatic (i.e., **results chain** ), or other forms. [10] If you portray your situation analysis in a situation model, you can use that as the basis for developing your results chains (Figure 11 shows a generic example, while Figure 12 shows an example based off of Figure 9). Doing so helps you explicitly show how your action is intended to affect the current state (portrayed in your situation model) to achieve the desired state (portrayed in your results chain). While the results and assumptions in your theories of change should be based on existing evidence, some assumptions may lack evidence. As such, your team may have uncertainty about whether your expected results can be achieved and if there are potential risks of undesirable outcomes. It is important to identify and prioritize these evidence gaps for attention (e.g., the dotted line in Figure 12 indicates an uncertainty in the team’s assumptions).
 
 
 10 While some people think that results chains are the same as logical frameworks (logframes) or logic models, they differ in important ways. Logframes
@@ -510,7 +458,6 @@ your assumptions about how your actions will
 help you reach those accomplishments and how
 you will gauge the progress of your project.
 
-**46** **CONSERVATION STANDARDS** V 5.0
 
          **Strategic Plan** **Pulling**
 **It All Together**
@@ -531,33 +478,10 @@ and store documents. A clear system will help
 you keep all relevant data and documentation
 organized, accessible, and easily updated.
 
-**2B.  Develop a Formal Monitoring, Evaluation, ** **and Learning Plan**
+## 2B.  Develop MEL Plan
+This sub-step includes outlining monitoring, evaluation, and learning protocols to develop a comprehensive **monitoring plan** . Your monitoring plan will help you track progress towards stated goals and objectives, evaluate progress along and key assumptions associated with your theory of change, and address information needs related to uncertainties identified earlier (e.g., in your situation analysis, action selection, or theories of change). The monitoring plan will also be helpful in identifying the resources needed for implementation, developing a timeline for data collection and analysis, and reflecting on potential risks. The level of rigor and the type of monitoring you do will depend upon your confidence in your key assumptions (i.e., the degree of evidence to support your assumptions), the consequences of being wrong, the stage of your project, and available resources.
 
-
-
-This sub-step includes outlining monitoring,
-evaluation, and learning protocols to develop a
-comprehensive **monitoring plan** . Your monitoring
-plan will help you track progress towards stated
-goals and objectives, evaluate progress along and
-key assumptions associated with your theory of
-change, and address information needs related
-to uncertainties identified earlier (e.g., in your
-situation analysis, action selection, or theories
-of change). The monitoring plan will also be
-helpful in identifying the resources needed
-for implementation, developing a timeline for
-data collection and analysis, and reflecting on
-potential risks. The level of rigor and the type
-of monitoring you do will depend upon your
-confidence in your key assumptions (i.e., the
-degree of evidence to support your assumptions),
-the consequences of being wrong, the stage
-of your project, and available resources.
-
-
-**Audiences and**
-**Information Needs**
+**Audiences and Information Needs**
 
 To start developing your monitoring plan, you should
 specify your **audiences** and their **information**
@@ -576,7 +500,6 @@ might be your project’s funders who need to
 know you are spending their money appropriately.
 Another audience might be interested parties
 
-**48** **CONSERVATION STANDARDS** V 5.0
 
 (including Indigenous Peoples and local communities)
 
@@ -619,39 +542,9 @@ it is feasible to address the information needs within
 the confines of your project’s resources and timeline.
 
 
-**1**
-
-**2**
 
 
 TABLE **2** **Common Monitoring Audiences and Their Information Needs**
-
-
-
-**3**
-
-**4**
-
-**5**
-
-
-
-
-
-**49** **CONSERVATION STANDARDS** V 5.0
-
-
-
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
 
 
 **Indicators**
@@ -705,42 +598,13 @@ your expected results (and why or why not).
 
 FIGURE **17** **Conservation-Friendly Zoning Results Chain with Potential Indicators**
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-watershed
-
-# species (species
-diversity) across
-
-watershed
-
-
-government is
-promoting & funding
-green infrastructure
-
-
-
+watershed species (species diversity) across watershed government is promoting & funding green infrastructure
 **Indicators**
 
 
 uncertainty in
 relationships
 
-
-
-
-**51** **CONSERVATION STANDARDS** V 5.0
 
 **Methods**
 
@@ -823,17 +687,6 @@ collection and management protocols so that
 others can understand, use, and reproduce them.
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**52** **CONSERVATION STANDARDS** V 5.0
 
 TABLE **3** **Extract of a Monitoring Plan for Promoting Climate-Smart Urban Approaches**
 
@@ -843,38 +696,8 @@ TABLE **3** **Extract of a Monitoring Plan for Promoting Climate-Smart Urban App
 
 
 
-
-
-**1**
-
-**2**
-
-
-**3**
-
-**4**
-
-**5**
-
-
-
-
-
-
-
-
-**53** **CONSERVATION STANDARDS** V 5.0
-**2C.  Develop an Operational Plan**
-
-
-Conservation projects are ultimately implemented
-by people and institutions. Even the best strategic
-plans and monitoring plans are of little utility if
-you cannot put them into operation. With this
-
-         in mind, this sub step involves developing an
-operational plan for your project. Key components
-of an **operational plan** include analyses of:
+## 2C.  Develop Operational Plan
+Conservation projects are ultimately implemented by people and institutions. Even the best strategic plans and monitoring plans are of little utility if you cannot put them into operation. With this in mind, this sub step involves developing an operational plan for your project. Key components of an **operational plan** include analyses of:
 
 **•** **Human capacity, skills, and other non** **financial**
 **resources** required to implement your project

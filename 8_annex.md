@@ -867,10 +867,6 @@ the rights, wellbeing, and interests of vulnerable or
 marginalized groups are respected and protected.
 
 
-**1**
-
-**2**
-
 ## ANNEX 2. DEFINITIONS OF AND CRITERIA FOR KEY TERMS
 
 

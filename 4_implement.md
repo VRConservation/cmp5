@@ -1,18 +1,7 @@
 # IMPLEMENT
+In this important step, your team will use project management principles to put into action the planning work you did in Steps 1 and 2. Step 3 involves developing and implementing specific work plans (Figure 8), while ensuring sufficient resources (people, equipment, and funding), skills, knowledge, and partners. All of this work should be done within the context of the implementing team’s organizational policies and procedures and decision making processes for approving work plans and budgets. As you move into implementation, don’t aim for perfection or wait for all the pieces to be in place. Work plans (and strategic plans) evolve over time.
 
-In this important step, your team will use project management principles
-to put into action the planning work you did in Steps 1 and 2. Step 3
-involves developing and implementing specific work plans (Figure 8), while
-ensuring sufficient resources (people, equipment, and funding), skills,
-knowledge, and partners. All of this work should be done within the context
-of the implementing team’s organizational policies and procedures and
-
-     decision making processes for approving work plans and budgets. As you
-move into implementation, don’t aim for perfection or wait for all the
-pieces to be in place. Work plans (and strategic plans) evolve over time.
-
-**3A. Revisit Team Structure ** **     and Process**
-
+## 3A. Revisit Team Structure & Process
 Likewise, even teams evolve over time. Sometimes,
 
 those implementing a project have not been
@@ -60,22 +49,7 @@ documenting your decisions and progress, so that you
 can more easily bring new team members on board.
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-
-**57** **CONSERVATION STANDARDS** V 5.0
-**3B. Develop a Detailed, Short term Work Plan ** **and Timeline**
-
-
+## 3B. Develop Work Plan & Timeline
 In the previous steps of the Conservation
 Standards cycle, your team developed your
 strategic plan, monitoring plan, and operational
@@ -173,19 +147,6 @@ next few months. Figure 18 shows an example
 of a table with people assigned to work on the
 project’s actions and monitoring activities.
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**58** **CONSERVATION STANDARDS** V 5.0
-
 More generally, it is important to make sure your team
 has a system for documenting your work planning
 and tracking implementation (e.g., work planning
@@ -228,23 +189,13 @@ FIGURE **18** **Work Plan Extract for a Marine Site, Showing Assignment of Peopl
 Action
 
 
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
 
 
 Activity
 
 Monitoring Activity
 
-**3C. ** **Develop and Refine Your Project Budget**
+## 3C. Develop and Refine Budget
 
 Your work plan is a critical input for developing
 a project budget. You should now have a clear
@@ -279,18 +230,6 @@ project budget, you should also ensure you have
 considered any costs associated with accessibility
 and volunteer activities (e.g., transportation, meals).
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
 When you are working on a project with multiple
 organizations, agencies, and/or countries, budgeting
 can look very different. In such situations, your
@@ -324,7 +263,6 @@ expenses, including equipment and general
 operating costs not directly associated with
 implementing a specific action or activity.
 
-**60** **CONSERVATION STANDARDS** V 5.0
 
 FIGURE **19** **Work Plan Extract Example, Expanded to Include Expense Details and Other Costs**
 
@@ -361,18 +299,6 @@ FIGURE **19** **Work Plan Extract Example, Expanded to Include Expense Details a
 Action Activity Monitoring
 Activity
 
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**61** **CONSERVATION STANDARDS** V 5.0
 
 Once you have developed your project budget,
 you will likely need to identify potential funding
@@ -430,7 +356,7 @@ on the adaptations you might need to make and
 determine whether your overall project can still be
 effective and if it makes sense to continue forward.
 
- **3D. Implement Your Plans**
+## 3D. Implement Plans
 
 Implementing your project involves putting your
 strategic, monitoring, and operational plans into action
@@ -474,8 +400,6 @@ different formats for reporting progress on actions
 that may resonate with different audiences.
 
 
-
-
 FIGURE **20** **Example of Progress Reporting in Table Format**
 
 
@@ -487,29 +411,7 @@ FIGURE **20** **Example of Progress Reporting in Table Format**
 Action Activity Monitoring
 Activity
 
-**63** **CONSERVATION STANDARDS** V 5.0
-
 FIGURE **21** **Example Activity Progress Report in Results Chains Diagram**
-
-
-**1**
-
-**2**
-
-
-**3**
-
-**4**
-
-**5**
-
-
-
-
-
-
-
-
 
 
 **64** **CONSERVATION STANDARDS** V 5.0
@@ -540,24 +442,6 @@ your data are collated, complete, and accurate and
 that they can be easily accessed and manipulated.
 Figure 22 shows an example of monitoring data for
 a few indicators from the Rat Elimination strategy.
-
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-
-
-
-
-
-
 
 
 
