@@ -214,7 +214,7 @@ When using the Conservation Standards, it is important to keep in mind the follo
 - These standards seek to clearly define and consistently use terminology
 :::
 
-```{list-table} Major terminology shifts (old vs. new terms) in Version 5.0 with rationale for update.
+:::{list-table} Major terminology shifts (old vs. new terms) in Version 5.0 with rationale for update.
 :header-rows: 1
 :label: table1
 
@@ -233,6 +233,6 @@ When using the Conservation Standards, it is important to keep in mind the follo
 * - Stakeholder
   - Interested party
   - The term “stakeholder” has colonial associations.  
-```
+:::
 
 [^5]: There can be different types of focal values (e.g., biodiversity, climate, human wellbeing, cultural), and teams should use the terms that work best for their audiences.
