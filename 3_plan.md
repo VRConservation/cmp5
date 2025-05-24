@@ -11,10 +11,10 @@ exports:
 ---
 
 # PLAN
-This step in the Conservation Standards cycle focuses on developing key components of your overall **conservation plan** . Specifically, it involves using and building on your work in the Assess Step to define and develop your project’s scope, actions, theories of change, and associated goals and objectives (i.e., your **strategic plan** ). It also involves clarifying specific **information needs** and indicators and how you will monitor these (**monitoring plan**) and laying out how you will operationalize your work, considering various institutional and contextual factors (**operational plan**). As shown in {numref}`plans`, all this information contributes to your overall conservation plan. Step 3 Implement includes more information on the work plan element.
+This step in the Conservation Standards cycle focuses on developing key components of your overall **conservation plan** . Specifically, it involves using and building on your work in the Assess Step to define and develop your project’s scope, actions, theories of change, and associated goals and objectives (i.e., your **strategic plan** ). It also involves clarifying specific **information needs** and indicators and how you will monitor these (**monitoring plan**) and laying out how you will operationalize your work, considering various institutional and contextual factors (**operational plan**). As shown in {numref}`8plans`, all this information contributes to your overall conservation plan. Step 3 Implement includes more information on the work plan element.
 
 :::{figure} zimage/8plans.png
-:name: plans
+:name: 8plans
 Relationships among different plans. Source: Adapted from Stewart 2016. Operationalising the Open Standards for the Practice of Conservation.
 :::
 
@@ -28,7 +28,7 @@ Developing a clear idea of what you would like to accomplish is an essential ear
 
 Ideally, your project goals should fit within and contribute to broader program and/or organizational goals. Indeed, in some cases, what your project is expected to achieve may be specified by your organization and/or statutory requirements. These external obligations may ultimately influence your team’s prioritization of actions. Where possible and relevant, your team also should consider the opportunity to align your goals – (and objectives discussed later) with broader national, regional, and/or international efforts (e.g., the United Nations Framework Convention on Climate Change, Sustainable Development Goals, Convention on Biodiversity, United Nations Declaration on the Rights of Indigenous Peoples) and specify how your project intends to contribute to these wider efforts. You should not force this connection, but rather look for where there is overlap and potential for alignment.
 
-If you did a viability assessment in Step 1B, you have already defined the elements of a good goal because you know the key attributes needed for a healthy focal value, you know by when you hope to achieve the desired status, and you know what you need to measure to assess its health. Developing a goal is just a matter of converting this viability information into a goal statement. As an example, a SMART goal for the forest corridor biodiversity focal value in Figure 6 might be: By 2035, the forest corridor linking the White River Watershed to Los Grillos is at least 5 km wide and remains unfragmented.
+If you did a viability assessment in Step 1B, you have already defined the elements of a good goal because you know the key attributes needed for a healthy focal value, you know by when you hope to achieve the desired status, and you know what you need to measure to assess its health. Developing a goal is just a matter of converting this viability information into a goal statement. As an example, a SMART goal for the forest corridor biodiversity focal value in {numref}`6ex`, Asesss Chapter might be: By 2035, the forest corridor linking the White River Watershed to Los Grillos is at least 5 km wide and remains unfragmented.
 
 If a project has human wellbeing focal values, then goals should be set for these focal values. To do so, the team can define key attributes needed for a healthy human wellbeing focal value.
 
@@ -96,7 +96,7 @@ High level relationships of how conservation actions can contribute to human wel
 Example of conservation action directly benefiting humans.
 :::
 
-Results chains can be used to show the **outcomes** of the project’s specific work, as well as longer-term outcomes that may be beyond the manageable interests and/or timeframe of the project. Some projects may hope to achieve improvements in their focal values, while others may only intend to get as far as a threat reduction result (e.g., reduced plastic debris in oceans, {numre}`16bd`) or even an intermediate result (e.g., policymakers enact laws limiting plastics). In these latter cases, the ultimate threat reduction and/or conservation result may be more implicit than explicit.
+Results chains can be used to show the **outcomes** of the project’s specific work, as well as longer-term outcomes that may be beyond the manageable interests and/or timeframe of the project. Some projects may hope to achieve improvements in their focal values, while others may only intend to get as far as a threat reduction result (e.g., reduced plastic debris in oceans, {numref}`16bd`) or even an intermediate result (e.g., policymakers enact laws limiting plastics). In these latter cases, the ultimate threat reduction and/or conservation result may be more implicit than explicit.
 
 :::{figure} zimage/16bd.png
 :height: 300px
