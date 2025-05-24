@@ -32,26 +32,26 @@ Consider these guiding questions in your analysis:
 - Are there unexpected negative results derived from your work? - Are there additional information needs, uncertainties, or risks your team needs to consider? 
 - What decisions do you need to make based on this analysis?
 
-There are many ways to facilitate and document your analysis. Figure 23 provides an extract of table formats that track progress towards implementation and results and allow easy documentation of changes needed or decisions made. Figure 24 is an example of a results chain with implementation and results tracking. The details of progress can be found in the progress notes, as demonstrated for the monitoring action SHARK M1. Review campaign records.
+There are many ways to facilitate and document your analysis. {numref}`23table` provides an extract of table formats that track progress towards implementation and results and allow easy documentation of changes needed or decisions made. {numref}`24rc` is an example of a results chain with implementation and results tracking. The details of progress can be found in the progress notes, as demonstrated for the monitoring action SHARK M1. Review campaign records.
 
-FIGURE **23** **Example Tables with Implementation and Results Progress**
+:::{figure} zimage/23table.png
+:name: 23table
+:height: 400px
+Example Tables with Implementation and Results Progress.
+:::
 
-FIGURE **24** **Example Results** **Chain-Based Theory of Change with Implementation and Results Progress**
+:::{figure} zimage/24rc.png
+:name: 24rc
+Example Results Chain-Based Theory of Change with Implementation and Results Progress.
+:::
 
-In addition to programmatic analyses, it is also important to consider whether the operational processes supporting your project are functioning properly. You may have a project that uses the perfect actions to address the threats and opportunities affecting your focal values, but your team may not be operating as efficiently as possible or does not have the administrative or financial support it needs to do its job well. To improve your understanding of what is truly happening, collaboration among all members of your team in these analyses is vital. Your operational analysis might explore the extent to which:
+In addition to programmatic analyses, it is also important to consider whether the operational processes supporting your project are functioning properly. You may have a project that uses the perfect actions to address the threats and opportunities affecting your focal values, but your team may not be operating as efficiently as possible or does not have the administrative or financial support it needs to do its job well. To improve your understanding of what is truly happening, collaboration among all members of your team in these analyses is vital. Your operational analysis might explore the extent to which you have
 
-- You have sufficient resources (e.g., financial, human,
-administrative, political) to carry out your project;
-- You have the right skills among your team members
-to implement your project well;
-- You have the physical infrastructure and equipment
-(e.g., office space, vehicles, computers) you need to
-do your job;
-- You have functioning social safeguards in place; and/
-or
-- Your project team operates smoothly and
-equitably (e.g., communications, delegation of
-responsibilities).
+- Sufficient resources (e.g., financial, human, administrative, political) to carry out your project; 
+- The right skills among your team members to implement your project well; 
+- The physical infrastructure and equipment (e.g., office space, vehicles, computers) you need to do your job; 
+- Functioning social safeguards in place; and/ or 
+- Your project team operates smoothly and equitably (e.g., communications, delegation of responsibilities).
 
 For learning and effective communication, it is important to involve the right people in the analyses and/or to share preliminary analyses with them. As a general rule, analyses should involve members of the project team, as they will have the deepest understanding of the project and overall situation. Depending on the context and where appropriate, team members may be conducting the analyses themselves, or they could help review and interpret analyses. However, teams should take care not to influence the findings unjustifiably. While team involvement is important, input from interested parties, outside experts, or those with other perspectives is also valuable and can help provide a balanced interpretation of monitoring results.
 
