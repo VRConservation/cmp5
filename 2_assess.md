@@ -1,4 +1,7 @@
 ---
+authors:
+  - id: auth0
+    name: Conservation Measures Partnership
 license: CC-BY-4.0
 kernelspec:
     name: python3
@@ -72,12 +75,12 @@ In most cases, you should determine the current status of each biodiversity foca
 [^6]: In CS 5.0, we are substituting the term “focal value” for the previously used term “target.” This change is to be consistent with the Convention on Biological Diversity and other international fora which use “value” for the focal element of a protected area and “target” for the desired future measurement of a SMART goal or objective (e.g., the 30 x 30 target).
 
 **Human Wellbeing Focal Values**
-As conservation is inevitably a social undertaking, it is important to show both how humans may impact the outcome of a project and how your work directly affects humans.[^7] As part of the process of identifying your focal values and developing your situation model, you should consider including **human wellbeing focal values** . At this point, your human wellbeing focal values typically encompass those components of human wellbeing affected by the status of biodiversity focal values and associated **ecosystem services** (Box 5). Examples include physical, mental, and spiritual health, livelihoods and material wellbeing, social relationships, cultural identity, and safety. {numref}`sitmo` shows these general relationships, including how biodiversity and human wellbeing focal values may affect one another. Identifying human wellbeing focal values is another place where geospatial approaches can be useful, helping your team visualize and better understand potential ecosystem services and other relevant factors that may impact your human wellbeing focal values.
+As conservation is inevitably a social undertaking, it is important to show both how humans may impact the outcome of a project and how your work directly affects humans.[^7] As part of the process of identifying your focal values and developing your situation model, you should consider including **human wellbeing focal values** . At this point, your human wellbeing focal values typically encompass those components of human wellbeing affected by the status of biodiversity focal values and associated **ecosystem services** (Box 5). Examples include physical, mental, and spiritual health, livelihoods and material wellbeing, social relationships, cultural identity, and safety. {numref}`3sitmo` shows these general relationships, including how biodiversity and human wellbeing focal values may affect one another. Identifying human wellbeing focal values is another place where geospatial approaches can be useful, helping your team visualize and better understand potential ecosystem services and other relevant factors that may impact your human wellbeing focal values.
 
 [^7]: See previous footnote.
 
 :::{figure} zimage/3sitmo.png
-:name: sitmo
+:name: 3sitmo
 Generic situation model extract showing scope, vision, and focal values.
 :::
 

@@ -143,17 +143,17 @@ CMP’s CS 4.0 and earlier use *target* to refer to Concept A and *desired futur
 
 **Program** ( *initiative* ) - A set of related *projects* or *strategies* designed to achieve a specific purpose. A program can be thought of as both a larger-scale project and a functional unit for managing, funding, or learning from a group of related component projects. In the interest of simplicity, this document generally uses the term “project” to represent both projects and programs since these standards of practice are designed to apply equally well to both. Compare with *project.*
 
-**Project** - A set of *strategies* undertaken by a defined - group of practitioners including managers, researchers, community members, or other - *interested parties* to achieve defined *goals* and *objectives* . Compare with *program* .
+**Project** - A set of *strategies* undertaken by a defined - group of practitioners including managers, researchers, community members, or other - *interested parties* to achieve defined *goals* and *objectives* . Compare with *program*.
 
-**Project team** A core group of practitioners who are responsible for designing, implementing, and monitoring a *project* . This group can include managers, researchers, operations staff, and other key implementers or *interested parties.*
+**Project team** - A core group of practitioners who are responsible for designing, implementing, and monitoring a *project* . This group can include managers, researchers, operations staff, and other key implementers or *interested parties.*
 
-**Psycho** **social (psychological and social) states** The beliefs, attitudes, feelings, and other cognitive states that underlie why people behave in a certain way.
+**Psycho** **social (psychological and social) states** - The beliefs, attitudes, feelings, and other cognitive states that underlie why people behave in a certain way.
 
 **Result** ( *outcome* ) - The desired future state of a factor in a *theory of change.* Most commonly a shorthand for *intermediate result* but could include the desired condition of a *focal value*.
 
-**Results chain** ( *theory of change diagram, strategy* - *pathway* ) A visual diagram of the *theory of change* for a *strategy* that shows the causal sequence linking one or more project *actions* to their expected *intermediate results* and one or more *focal values.* Often used to show key *assumptions*.
+**Results chain** ( *theory of change diagram, strategy* - *pathway* ) - A visual diagram of the *theory of change* for a *strategy* that shows the causal sequence linking one or more project *actions* to their expected *intermediate results* and one or more *focal values.* Often used to show key *assumptions*.
 
-**Rights holder** An individual or group who has legal or customary ownership and/or use of lands and waters and/or natural resources within an area. All rights holders are also *interested* *parties* in a project affecting the area, but not all interested parties are rights holders.
+**Rights holder** - An individual or group who has legal or customary ownership and/or use of lands and waters and/or natural resources within an area. All rights holders are also *interested* *parties* in a project affecting the area, but not all interested parties are rights holders.
 
 **Risk** - The possibility that an event will occur that will adversely affect one or more *interested* *parties* and/or a project’s achievement of its *goals* and *objectives.* It is often expressed in terms of a combination of the likelihood of the event’s occurrence and the severity of its consequences.
 
