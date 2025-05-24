@@ -193,8 +193,9 @@ components of a *work plan* .
 
 **Work plan** – Part of a *conservation plan* that describes the implementation of *strategic,* *monitoring*, and *operational plans.* Work plans typically list *activities* and *tasks*, as well as responsible individuals and timing of each activity or task. They often link to budgets, showing the money and resources required to implement the work plan.
 
-**Visual Key to Theory of Change Diagrams**
-Results or Impacts or (Intermediate) outcomes Ultimate outcomes Strategy
+### TOC visual key
+![toc](zimage/toc.png)<br>
+
 
 **Detailed Information on Terms Related to Equitable Conservation**
 

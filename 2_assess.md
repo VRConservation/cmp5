@@ -108,17 +108,17 @@ If your team will be doing more in depth studies, some useful tools include mark
 As you do your interested parties assessment, keep in mind which are likely to be important strategic partners for the project (Step 1A), whose behavior you want to affect, and/or whose voice you want to elevate. Whether you want to influence policy making, law enforcement, corporate practice, producer choices, or consumer decisions, all involve attitude and/or behavior change. Having a good understanding of the actors (including their motivations for, barriers to, and local context for behavior change) is crucial to developing a situation analysis and designing effective actions (Step 2A). Additionally, it is essential to ensure rights to obtain **Free, Prior, and Informed** **Consent (FPIC)**, so as to protect the rights of communities in any decision making that will impact their livelihoods, lands, or natural resources.
 
 **Situation Model**
-One way to synthesize and document threats, opportunities, and key actors identified in your situation analysis is to construct a **situation model** (also known as a conceptual model). A situation model is a diagram that visually portrays the relationships among the different **factors** in your situation analysia. See {numref}`context` for a generic model and {numref}`ex` for an example based on a placebased project. A good model illustrates the main cause-and-effect relationships that exist within the project scope and the key actors involved. It should include the most important details, yet be as simple as possible. To this end, a situation model for a large scale project may need to be at a coarser grain than a model for a small scale project.
+One way to synthesize and document threats, opportunities, and key actors identified in your situation analysis is to construct a **situation model** (also known as a conceptual model). A situation model is a diagram that visually portrays the relationships among the different **factors** in your situation analysia. See {numref}`5context` for a generic model and {numref}`6ex` for an example based on a placebased project. A good model illustrates the main cause-and-effect relationships that exist within the project scope and the key actors involved. It should include the most important details, yet be as simple as possible. To this end, a situation model for a large scale project may need to be at a coarser grain than a model for a small scale project.
 
 To make sure that your situation model generally represents your team’s understanding of your context, it is good to build it together and base it, as much as possible, on existing evidence and diverse knowledge systems. It may also be useful to develop a spatial map of your situation. For both your situation model and spatial map, it is ideal to review them with key actors, interested parties, and partners to make sure that the products reflect a shared understanding of the situation.
 
 :::{figure} zimage/5context.png
-:name: context
+:name: 5context
 Generic situation model of project context.
 :::
 
 :::{figure} zimage/6ex.png
-:name: ex
+:name: 6ex
 Example situation model for a watershed site.
 :::
 
