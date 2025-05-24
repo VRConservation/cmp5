@@ -109,7 +109,7 @@ Using the Conservation Standards is part science, part art. Your team[^3] may fi
 
 For each step in the Conservation Standards cycle ({numref}`projcycle`), this document provides a brief description of the standards of practice and the expected outputs for that practice (see Annex 4 for a list of all outputs). The Conservation Standards process might appear complex or involved, but depending on where you are with your project, you may have already done many of the steps. You should not aim to produce flawless outputs as you go through each step. Instead, it is helpful to think of this as an iterative process in which you deliberately, yet rapidly, move through the steps, develop a credible draft of the outputs, and then revise your work as your project changes and matures. Likewise, when you encounter data gaps, do not be paralyzed state your assumptions, move forward with the best available information, and document key decisions and priority information needs. 
 
-:::{figure} zimage/projcycle.png
+:::{figure} zimage/1projcycle.png
 :name: projcycle
 Open Standards for the Practice of Conservation project cycle.
 :::
@@ -153,7 +153,7 @@ There are various ways project teams can get hands on support and guidance to im
 
 **Guidance and Tools**: CMP member organizations and partners have developed a variety of guides and tools that provide step-by-step guidance or deeper detail on key topics. As shown in {numref}`relat`, these resources help support the implementation of the CS higher-level principles and practices. They include materials, such as organization specific how to guides, classification systems developed across institutions (e.g., conservation threats and actions classifications), online and in-person courses, case studies, videos, and course curricula. These resources are available via the [Conservation Standards](https://conservationstandards.org/) website (see Training, Case Studies, and Resource Library menus), with most written guidance materials vetted and rated by a cross-institutional committee representing both CMP and CCNet. In addition to these materials, and as discussed earlier, there are a variety of decision support resources outside the Conservation Standards traditional toolbox that teams may also wish to use.
 
-:::{figure} zimage/relat.png
+:::{figure} zimage/2relat.png
 :name: relat
 Relationship between the Conservation Standards and associated resources.
 :::
