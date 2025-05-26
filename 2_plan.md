@@ -101,9 +101,9 @@ Finally, it is important that your project has appropriate environmental and **s
 
 Consider a diverse array of strategies that address both the complexity and uncertainty of ecological responses to climate change. This table shows how considering your work from earlier CS steps (especially viability assessment and threat rating) can help you identify strategies to increase the resilience of your focal values to climate change.
 
-| Type of intervention to increase climate resilience | Example strategy to increase climate resilience |
+| Intervention to increase climate resilience | Strategy to increase climate resilience |
 |:---|:---|
-| Maintain or enhance the viability of a focal value and increase its capacity to adapt to climate change | 4 |
+| Maintain or enhance the viability of a focal value and increase its capacity to adapt to climate change | Protect land to allow inland migration of tidal marsh as sea level rises, accepting change in coastline |
 :::
 
  Protect climate refugia by protecting and/or restoring occurrences of the focal value that may be less exposed to changes in climate Reduce the biophysical effect of a climate- related threat (e.g., increase in water temperature) by acting on a non-climate threat contributing to the same biophysical effect Prevent human mal adaptation or actions that increase climate vulnerability Example strategy to increase climate resilience Protect land to allow inland migration of tidal marsh as sea level rises, accepting change in the coastline Protect sections of a stream in which cold groundwater inputs continue to provide habitat for cold water fish species as other areas become warmer Provide habitat for coldwater fish by protecting riparian vegetation that shades the stream as air temperature increases Work with Indigenous Peoples to reinstate natural fire regimes in areas where human actions have altered the frequency and intensity of fire
