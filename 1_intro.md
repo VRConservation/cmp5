@@ -19,13 +19,16 @@ The Open Standards for the Practice of Conservation Version 5.0 is the product o
 **What Is the Conservation Measures Partnership (CMP)?**
 [The Conservation Measures Partnership (CMP)](https://www.conservationmeasures.org/about-cmp/) is a global community of NGOs, government agencies, funders, and private businesses working together to design, manage, and measure conservation action. Guided by the Conservation Standards, CMP members collaborate to share knowledge, adopt best practices, and avoid ineffective approaches—ultimately enhancing conservation efficiency and innovation worldwide.
 
-**Current CMP members (2025):** African Wildlife Foundation; Alcedo Conservation; Bush Heritage Australia; Chester Zoo; Conservation X Labs; Conservation Management; Disney’s Animals, Science, and Environment; Durrell Wildlife Conservation Trust; Endangered Wildlife Trust; Environmental Incentives; Foundations of Success; The Gordon and Betty Moore Foundation; International Crane Foundation; Jane Goodall Institute; Keith Campbell Foundation for the Environment; Kent Wildlife Trust; Lemu; Margaret A. Cargill Foundation; National Fish and Wildlife Foundation; The Nature Conservancy; Nature Conservancy of Canada; NOAA’s Coral Reef Conservation Program; The Pew Charitable Trusts; Puget Sound Partnership; Rare; San Diego Zoo Wildlife Alliance; The Summit Foundation; TRAFFIC; US Agency for International Development; US Fish and Wildlife Service; Walton Family Foundation; Wildlife Conservation Network; Wildlife Conservation Society; and World Wide Fund for Nature.
-
-**Revisions and Updates:** The Conservation Measures Partnership has editorial authority over the Conservation Standards *.* This is a living and improve over time. For updated versions, guidance materials, and further information, visit the wesbsites at [CMP](www.conservationmeasures.org) and the [Conservation Standards](http://www.conservationstandards.org). We welcome feedback from anyone who uses these standards–please e-mail us at: [CMPinfo@conservationmeasures.org](mailto:CMPinfo@40conservationmeasures.org).
-
-:::{note} Conservation Standards 5.0 Revisions Committee 👈
+:::{seealso} Current CMP members (2025)
 :class: dropdown
-👋 Version 5.0 was a highly collaborative effort. Eighty eight members of the broader Conservation Standards community (representing at least 33 institutions) actively contributed to this version, developing and refining content. CMP is very grateful to them for their time and insights. These individuals include: Adrienne Marvin, Amelia Grigson, Anita Diederichsen, Anne Ntongho, Annette Stewart, Ash Baker, Becky Raboy, Becky Stewart, Beth Allgood, Bridget Mattingley, Carol Bogezi, Caroline Stem, Catherine Payne, Charles Latrémouille, Clair Dougherty, Claire Relton, Cristina Eghenter, Danica Schaffer Smith, Daphne Yin, David Wilkie, Diane Detoeuf, Eduardo Cuevas, Elizabeth Nelson, Erica Cochrane, Felix Cybulla, Frank Weisenberger, Gayle Burgess, Giselle Block, Heather Barna, Helma Brandmeier, Iain Dickson, Jaclyn Lucas, Joaquin Riesgo, John Morrison, John Waugh, Jon Fisher, Josh Goldstein, Judy Boshoven, Karyne Bellehumeur, Katie Williamson, Kelly Swiech, Kelsey Schueler, Lauriane Besse Streit, Leander Lacy, Li Ying, Llara Kritzner, Lucy Rose, Maggie Lee, Marcia Brown, Marinao de la Maza, Marko Pecarevic, Matrida Simfukwe, Michael Looker, Moritz Spielberger, Nan Zeng, Narangerel Naranpurev, Nathan Karres, Nick Hutcheson, Nick Salafsky, Nick Tealer, Nico Boenisch, Nicole Gross Camp, Olivia Millard, Paloma Bravo Córdova, Paola Mejía, Pavitray Pillay, Philippa Dyson, Preston Whitt, Quinn Shurtliff, Rachel Martin, Sarah Cotter, Sarah Pearson, Sheila O'Connor, Sophie Hall Aspland, Stephan Funk, Sujata Ram, Tara Stephens, Terri Schultz, Theany Mout, Tessa Stienen, Tina Jansen van Vuuren, Vanessa Correa, Varsha Suresh, Vinaya Swaminathan, Wessyl Kelly, Will Beale, Xavi Escuté, Yaw Opoku Agyeman, Zeljka Rajovic.
+African Wildlife Foundation; Alcedo Conservation; Bush Heritage Australia; Chester Zoo; Conservation X Labs; Conservation Management; Disney’s Animals, Science, and Environment; Durrell Wildlife Conservation Trust; Endangered Wildlife Trust; Environmental Incentives; Foundations of Success; The Gordon and Betty Moore Foundation; International Crane Foundation; Jane Goodall Institute; Keith Campbell Foundation for the Environment; Kent Wildlife Trust; Lemu; Margaret A. Cargill Foundation; National Fish and Wildlife Foundation; The Nature Conservancy; Nature Conservancy of Canada; NOAA’s Coral Reef Conservation Program; The Pew Charitable Trusts; Puget Sound Partnership; Rare; San Diego Zoo Wildlife Alliance; The Summit Foundation; TRAFFIC; US Agency for International Development; US Fish and Wildlife Service; Walton Family Foundation; Wildlife Conservation Network; Wildlife Conservation Society; and World Wide Fund for Nature.
+:::
+
+**Revisions and Updates:** The Conservation Measures Partnership has editorial authority over the Conservation Standards. This is a living document that CMP members will continue to revise and improve over time. For updated versions, guidance materials, and further information, visit the wesbsites at [CMP](www.conservationmeasures.org) and the [Conservation Standards](http://www.conservationstandards.org). We welcome feedback from anyone who uses these standards–please e-mail us at: [CMPinfo@conservationmeasures.org](mailto:CMPinfo@40conservationmeasures.org).
+
+:::{seealso} Conservation Standards 5.0 Revisions Committee
+:class: dropdown
+Version 5.0 was a highly collaborative effort. Eighty eight members of the broader Conservation Standards community (representing at least 33 institutions) actively contributed to this version, developing and refining content. CMP is very grateful to them for their time and insights. These individuals include: Adrienne Marvin, Amelia Grigson, Anita Diederichsen, Anne Ntongho, Annette Stewart, Ash Baker, Becky Raboy, Becky Stewart, Beth Allgood, Bridget Mattingley, Carol Bogezi, Caroline Stem, Catherine Payne, Charles Latrémouille, Clair Dougherty, Claire Relton, Cristina Eghenter, Danica Schaffer Smith, Daphne Yin, David Wilkie, Diane Detoeuf, Eduardo Cuevas, Elizabeth Nelson, Erica Cochrane, Felix Cybulla, Frank Weisenberger, Gayle Burgess, Giselle Block, Heather Barna, Helma Brandmeier, Iain Dickson, Jaclyn Lucas, Joaquin Riesgo, John Morrison, John Waugh, Jon Fisher, Josh Goldstein, Judy Boshoven, Karyne Bellehumeur, Katie Williamson, Kelly Swiech, Kelsey Schueler, Lauriane Besse Streit, Leander Lacy, Li Ying, Llara Kritzner, Lucy Rose, Maggie Lee, Marcia Brown, Marinao de la Maza, Marko Pecarevic, Matrida Simfukwe, Michael Looker, Moritz Spielberger, Nan Zeng, Narangerel Naranpurev, Nathan Karres, Nick Hutcheson, Nick Salafsky, Nick Tealer, Nico Boenisch, Nicole Gross Camp, Olivia Millard, Paloma Bravo Córdova, Paola Mejía, Pavitray Pillay, Philippa Dyson, Preston Whitt, Quinn Shurtliff, Rachel Martin, Sarah Cotter, Sarah Pearson, Sheila O'Connor, Sophie Hall Aspland, Stephan Funk, Sujata Ram, Tara Stephens, Terri Schultz, Theany Mout, Tessa Stienen, Tina Jansen van Vuuren, Vanessa Correa, Varsha Suresh, Vinaya Swaminathan, Wessyl Kelly, Will Beale, Xavi Escuté, Yaw Opoku Agyeman, Zeljka Rajovic.
 :::
 
 In addition, CMP is grateful to the CMP members who reviewed the final draft and provided important input to further
@@ -84,13 +87,13 @@ The Conservation Standards are a product of the collaborative work of the Conser
 
 Findings included a series of principles for adaptive project cycle management. Around the same time, CMP also conducted a “Rosetta Stone” exercise to line up the existing planning systems used by different member organizations and identify similarities and differences in approaches and terminology. Building on these products, CMP member organizations contributed their institution-specific planning and implementation approaches to develop and refine Version 1.0 of the Conservation Standards.
 
-:::{hint} WHATS NEW IN VERSION 5.0?
+:::{hint} BOX1: WHATS NEW IN VERSION 5.0?
 :class: dropdown
 Version 5.0 reflects the collective input and collaborative effort of CMP members and the broader Conservation Standards community. These individuals worked together to develop content for CMP-prioritized updates, drawing on their diverse on-the-ground implementation experiences. Main highlights include: 
 - Changes to and clarifications of terminology to better communicate key concepts 
 - Greater detail on Steps 3-5 
 - Additional emphasis on the use and importance of evidence across all steps of the Conservation Standards 
-- Clarification of the relationship between the Conservation Standards and other decision- support frameworks 
+- Clarification of the relationship between the Conservation Standards and other decision-support frameworks 
 - Attention to the importance of scale to achieve greater impact 
 - Emphasis on how behavior change and behavioral insights inform conservation actions 
 - Update of climate change considerations 
@@ -131,7 +134,7 @@ The Conservation Standards are one of several frameworks with associated tools u
 
 ![meeting](zimage/meet.png)
 
-:::{seealso} GETTING MORE INFORMATION ON KEY THEMES
+:::{seealso} BOX 2: GETTING MORE INFORMATION ON KEY THEMES
 :class: dropdown
 CS 5.0 includes deeper treatment on a number of themes prioritized by our community, as summarized here. Where relevant, each CS step section integrates concepts related to these themes. In the interest of keeping the Conservation Standards focused primarily on high-level practices and principles, some thematic groups have developed supplemental briefs that explain more about the theme, provide high-level guidance, and share resources. 
 
@@ -175,7 +178,7 @@ Some people conflate Miradi with the Conservation Standards, but it is important
 
 :::{hint} FINDING HELP
 :class: dropdown
-The [Conservation Standards Resource Library](https://www.conservationstandards.org/resources) hosts a variety of resources, many of which have been reviewed and rated by a cross- institutional panel of Conservation Standards community members (CMP-CCNet Guidance Review Committee). New resources are regularly reviewed and added to the library.
+The [Conservation Standards Resource Library](https://www.conservationstandards.org/resources) hosts a variety of resources, many of which have been reviewed and rated by a cross-institutional panel of Conservation Standards community members (CMP-CCNet Guidance Review Committee). New resources are regularly reviewed and added to the library.
 
 Facilitated and self-paced training [options](https://www.conservationstandards.org) are available from Conservation Standards members. These training courses have been vetted by the Guidance Review Committee.
 
@@ -189,9 +192,9 @@ The [Conservation Coaches Network](https://www.ccnetglobal.com/about-ccnet) can 
 :::
 
 ## General Principles
-There are several essential principles and considerations relevant to all CS steps. Annex 3 provides important details on these, while Box 3 provides a high level summary. On the last consideration below, there are numerous debates as to the meaning of technical terms such as “goal,” “objective,” “strategy,” “activity,” “target,” and “milestone.” While there is no universal, consistent understanding, the Conservation Standards maintain that it is very important that project team members and partners have a clear and common definition of terms. With this in mind, the technical terms in this document were carefully selected, bolded when first fully described, consistently used thereafter, and defined in the glossary. As the Conservation Standards evolve, we find some terms need updating to improve communication and adoption of key principles and steps. {numref}`table` includes some updates and clarifications on terminology in Version 5.0.
+There are several essential principles and considerations relevant to all CS steps. Annex 3 provides important details on these, while Box 3 provides a high level summary. On the last consideration below, there are numerous debates as to the meaning of technical terms such as “goal,” “objective,” “strategy,” “activity,” “target,” and “milestone.” While there is no universal, consistent understanding, the Conservation Standards maintain that it is very important that project team members and partners have a clear and common definition of terms. With this in mind, the technical terms in this document were carefully selected, bolded when first fully described, consistently used thereafter, and defined in the glossary. As the Conservation Standards evolve, we find some terms need updating to improve communication and adoption of key principles and steps. {numref}`table1` includes some updates and clarifications on terminology in Version 5.0.
 
-:::{important} SUMMARY OF KEY PRINCIPLES AND CONSIDERATIONS
+:::{important} BOX 3: SUMMARY OF KEY PRINCIPLES AND CONSIDERATIONS
 :class: dropdown
 When using the Conservation Standards, it is important to keep in mind the following (more detail in Annex 3):
 
