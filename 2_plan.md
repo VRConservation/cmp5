@@ -101,21 +101,24 @@ Finally, it is important that your project has appropriate environmental and **s
 
 Consider a diverse array of strategies that address both the complexity and uncertainty of ecological responses to climate change. This table shows how considering your work from earlier CS steps (especially viability assessment and threat rating) can help you identify strategies to increase the resilience of your focal values to climate change.
 
-| Intervention to increase climate resilience | Strategy to increase climate resilience |
-|:---|:---|
-| Maintain or enhance the **viability** of a focal value and increase its capacity to adapt to climate change | Protect land to allow inland migration of tidal marsh as sea level rises, accepting change in coastline | Protect **climate refugia** by protecting and/or restoring occurrences of the focal value that may be less exposed to changes in climate |  Protect sections of a stream in which cold groundwater inputs continue to provide habitat for cold water fish species as other areas become warmer | Reduce the biophysical effect of a climate- related **threat** (e.g., increase in water temperature) by acting on a non-climate threat contributing to the same biophysical effect | Provide habitat for coldwater fish by protecting riparian vegetation that shades the stream as air temperature increases | Prevent human **mal adaptation** or actions that increase climate vulnerability Example strategy to increase climate resilience | Work with Indigenous Peoples to reinstate natural fire regimes in areas where human actions have altered the frequency and intensity of fire
+| Intervention | Strategy |
+|:--------|:--------|
+| Maintain or enhance the **viability** of a focal value and increase its capacity to adapt to climate change | Protect land to allow inland migration of tidal marsh as sea level rises, accepting change in coastline | 
+| Protect **climate refugia** by protecting and/or restoring occurrences of the focal value that may be less exposed to changes in climate |  Protect sections of a stream in which cold groundwater inputs continue to provide habitat for cold water fish species as other areas become warmer | 
+| Reduce the biophysical effect of a climate- related **threat** (e.g., increase in water temperature) by acting on a non-climate threat contributing to the same biophysical effect | Provide habitat for coldwater fish by protecting riparian vegetation that shades the stream as air temperature increases | 
+| Prevent human **mal adaptation** or actions that increase climate vulnerability Example strategy to increase climate resilience | Work with Indigenous Peoples to reinstate natural fire regimes in areas where human actions have altered the frequency and intensity of fire |
 :::
 
 :::{seealso} CLIMATE CHANGE CONSIDERATION 5B: IDENTIFYING STRATEGIES FOR CLIMATE MITIGATION
 :class: dropdown
 
-Natural climate mitigation pathways can help countries meet their nationally determined contributions to the Paris Agreement. These climate mitigation pathways focus on conserving, managing, or restoring forests, wetlands (including mangroves and peatlands), and agricultural lands. The table below provides examples of strategies for some of these mitigation pathways.
+Natural climate mitigation pathways can help countries meet their nationally determined contributions to the Paris Agreement. These climate mitigation pathways focus on conserving, managing, or restoring forests, wetlands (including mangroves and peatlands), and agricultural lands. The table below provides examples of strategies and GHG emissions impacts for some of these mitigation pathways.
 
-| Mitigation Pathway | GHG Emissions Impact | Climate Mitigation Strategy
-| :--- | :---|
+| Pathway | Impact | Strategy |
+| :------------ | :-----------| :--------- |
 | Restore mangroves | Sequesters GHGs | Breach water control structures to restore hydrology and increase mangrove cover | 
 | Avoid forest conversion | Avoids GHG emissions | Strengthen law enforcement to prevent conversion of forest to illegal gold mining | 
-Manage forest | Reduces emissions | Strengthen guidelines for natural forest management in government forest concessions
+Manage forest | Reduces emissions | Strengthen guidelines for natural forest management in government forest concessions |
 :::
 
 **Assumptions & Theories of Change**<br>
