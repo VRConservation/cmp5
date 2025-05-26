@@ -45,7 +45,7 @@ Before you think about what actions you will implement, you should have a good u
 
 - **Thematic based scopes** focus on efforts to address specific threats, opportunities, or enabling conditions. Examples of a thematic based scope include a project focused on illegal logging that aims to reduce timber imported into the European Union or a climate program that seeks to decrease national CO 2 emissions from transportation, homes, food, and energy production. 
 
-:::{note} WHAT IS BEHAVIOR CHANGE AND WHY DOES IT MATTER?
+:::{important} Box 4 WHAT IS BEHAVIOR CHANGE AND WHY DOES IT MATTER?
 :class: dropdown
 
 Conservation challenges are often behavioral challenges. To solve them, it is important to consider how human behaviors at all levels of a system can support, scale, or block progress to your conservation goals. Behavior change is the process of changing what people do - i.e., increasing, maintaining, or decreasing a current behavior, or adopting a new behavior. When seeking to change behavior, it is key to understand the unique social, cultural, political, and economic contexts and systems in which these behaviors occur. This includes understanding whether your goals align with the goals of key actors and interested parties, reflecting on your biases and power dynamics about “right” behaviors, and considering the potential to do harm instead of good. Behavior change activities should be transparent and inclusive and follow ethical guidelines for research, engagement, communication, and evaluation.
@@ -57,6 +57,16 @@ Given the dynamic roles humans play in conservation outcomes, it is common for t
 
 **Vision**
 In addition to defining the scope, it is also necessary to decide on a clear and common **vision** – a description of the desired state or ultimate condition that you are working to achieve. You can summarize your vision in a vision statement, which meets the criteria of being *relatively general, visionary, and* *brief* (see Annex 2 for descriptions of these criteria). A project’s vision should also consider the context of your organization’s mission and the needs and interests of other parties within your project scope.
+
+:::{seealso} CLIMATE CHANGE CONSIDERATION 1
+
+SCOPE AND VISION
+In defining your scope, consider if you are focusing on biodiversity conservation and need to take into account how climate change will affect your biodiversity focal values and/or if you are focusing on reducing the impact of climate change on humans by protecting and restoring ecosystems (i.e., ecosystem-based adaptation). You should also consider whether one of the primary aims of your project is to avoid, reduce, or sequester greenhouse gas emissions, using nature-based solutions. 
+
+These high-level decisions could influence your geographic scope. You should think beyond today and consider both how climate has changed and how it is likely to continue to change, including whether ecosystems or species ranges are likely to shift (latitudinally or altitudinally) or the distribution of species within an ecosystem is likely to change. It is also important to consider future human needs and responses to climate change. 
+
+Your vision should be forward looking, describing a future ecological state that takes into account projected climate conditions. Given these projections, you may need to define your future ecological state not only in terms of composition and abundance, but also in terms of ecosystem structure, function, and processes.
+:::
 
 **Focal Values**
 A **focal value** is what a project seeks to ultimately affect. It is often an element chosen to represent key aspects of the overall system. Types of focal values include biodiversity values (e.g., species, habitats, or ecosystems), climate values, cultural values, and human wellbeing values. In CS 5.0, we are substituting the term “focal value” for the previously used term “target.”
@@ -76,6 +86,11 @@ In most cases, you should determine the current status of each biodiversity foca
 
 **Human Wellbeing Focal Values**
 As conservation is inevitably a social undertaking, it is important to show both how humans may impact the outcome of a project and how your work directly affects humans.[^7] As part of the process of identifying your focal values and developing your situation model, you should consider including **human wellbeing focal values** . At this point, your human wellbeing focal values typically encompass those components of human wellbeing affected by the status of biodiversity focal values and associated **ecosystem services** (Box 5). Examples include physical, mental, and spiritual health, livelihoods and material wellbeing, social relationships, cultural identity, and safety. {numref}`3sitmo` shows these general relationships, including how biodiversity and human wellbeing focal values may affect one another. Identifying human wellbeing focal values is another place where geospatial approaches can be useful, helping your team visualize and better understand potential ecosystem services and other relevant factors that may impact your human wellbeing focal values.
+
+::: {important} BOX 5: USING GLOBAL FRAMEWORKS TO HELP FRAME HUMAN WELLBEING LINKAGES
+:class: dropdown
+When selecting potential human wellbeing and biodiversity focal values, teams may want to review various global frameworks to better understand their project’s relationship with and contribution to these global initiatives. Many of these frameworks address global challenges and work towards ensuring a more sustainable future by encouraging actions to improve human wellbeing, reduce environmental degradation, and create the conditions to optimize both. There are numerous frameworks that teams can reference, such as the United Nations Sustainable Development Goals, Kunming-Montreal Global Biodiversity Framework, United Nations Environment Programme Navigating New Horizons, and IUCN’s Cultural and Spiritual Significance of Nature, among others.
+:::
 
 [^7]: See previous footnote.
 

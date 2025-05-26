@@ -78,7 +78,7 @@ The Conservation Standards are not an instruction manual to be followed exactly.
 
 This document intentionally focuses on standards – high-level practices and principles – not “how-to” guidance, which is available from various resources that CMP and Conservation Standards community members have developed (see later section on Support for Implementing the Conservation Standards).
 
-We encourage feedback from anyone who uses these Conservation Standards email us at [CMPinfo@conservationmeasures.org](mailto:CMPinfo@40conservationmeasures.org).
+We encourage feedback from anyone who uses these Conservation Standards email us at [CMPinfo@conservationmeasures.org](mailto:CMPinfo@conservationmeasures.org).
 
 [^2]: All conservation efforts at any scale can be explicitly or implicitly described as projects – a set of actions undertaken by a defined group of practitioners – including managers, researchers, community members, or other actors – to achieve defined goals and objectives. When thinking about scale, however, it can also be useful to organize groups of related projects into larger programs. These programs often serve as an administrative or funding unit, but they also may have their own higher-level goals, objectives, and actions – in effect, acting as a higher order project. In this document, we use the term “project” to represent both projects and programs at all scales.
 
@@ -87,7 +87,7 @@ The Conservation Standards are a product of the collaborative work of the Conser
 
 Findings included a series of principles for adaptive project cycle management. Around the same time, CMP also conducted a “Rosetta Stone” exercise to line up the existing planning systems used by different member organizations and identify similarities and differences in approaches and terminology. Building on these products, CMP member organizations contributed their institution-specific planning and implementation approaches to develop and refine Version 1.0 of the Conservation Standards.
 
-:::{hint} BOX1: WHATS NEW IN VERSION 5.0?
+:::{important} BOX 1: WHATS NEW IN VERSION 5.0?
 :class: dropdown
 Version 5.0 reflects the collective input and collaborative effort of CMP members and the broader Conservation Standards community. These individuals worked together to develop content for CMP-prioritized updates, drawing on their diverse on-the-ground implementation experiences. Main highlights include: 
 - Changes to and clarifications of terminology to better communicate key concepts 
@@ -122,19 +122,23 @@ Open Standards for the Practice of Conservation project cycle.
 [^3]: Throughout the Conservation Standards, we use the familiar terms “you” and “your” intentionally to make the Conservation Standards feel more comfortable and approachable - it is a process for everyone involved in the project, including, but not limited to, organizational staff, local communities, and Indigenous Peoples.
 
 ## Other Frameworks & Tools
-The Conservation Standards are one of several frameworks with associated tools used to support conservation decision making and **adaptive management**.[^4] 
-
-[^4]: To understand how the CS have been adapted by some users and how they relate to other frameworks and tools, it is helpful to differentiate among categories. As you design, implement, and learn from your project, consider what is the most appropriate combination of decision support frameworks and tools for your context.
+The Conservation Standards are one of several frameworks with associated tools used to support conservation decision making and **adaptive management**.[^4] To understand how the CS have been adapted by some users and how they relate to other frameworks and tools, it is helpful to differentiate among categories. As you design, implement, and learn from your project, consider what is the most appropriate combination of decision support frameworks and tools for your context.
 
 **Organizational and audience-based adaptations of the CS:** Some organizations modify the CS to represent their own policies, procedures, constituents, and ways of working (e.g., WWF’s Project and Programme Management Standards). In other cases, groups adapt the CS for specific audiences, particularly when Indigenous Peoples and Local Communities are leading or collaborating (e.g., Healthy Country Planning). These CS adaptations may include changes in terminology, refined guidance, or specific tool recommendations.
 
-**Alternative adaptive management frameworks:** Alternative frameworks (e.g., Collective Impact Framework, Conservation Planning Specialist Group’s Principles and Steps, and Systematic Conservation Planning) share common goals with the CS but differ in focus and prioritize different methods or tools. However, these approaches and the CS can often complement each other, helping to strengthen both. For example, BirdLife's Project Toolkit has adopted the CS and integrated the Collective Impact Framework for multi-partner programs. 4 See glossary for definitions of bolded technical terms. **Complementary decision** **making tools:** To support specific CS steps, teams may use complementary decision-making tools (e.g., consequence tables or system maps) from other approaches. Teams can select and combine these tools based on the complexity of the problem and the preferences of the planning team. Indeed, the CS are intentionally designed to integrate principles and tools from other frameworks and approaches, allowing for flexibility and more informed decision making.
+**Alternative adaptive management frameworks:** Alternative frameworks (e.g., Collective Impact Framework, Conservation Planning Specialist Group’s Principles and Steps, and Systematic Conservation Planning) share common goals with the CS but differ in focus and prioritize different methods or tools. However, these approaches and the CS can often complement each other, helping to strengthen both. For example, BirdLife's Project Toolkit has adopted the CS and integrated the Collective Impact Framework for multi-partner programs.
 
-**Other conservation-related standards:** Other frequently used standards (e.g., IUCN’s Green List of Protected Areas or Conservation Assured Tiger Standards) focus on demonstrating best practices in conservation management but are not adaptive management frameworks themselves. They serve to assess how well initiatives meet specific criteria, leading to recognition or support. The use of these standards is similar to how the [Conservation Audit Tool](https://sites.google.com/view/cmp-conservation-audit-tool/home) is used to support the CS. For a deeper discussion, see this [living table](https://docs.google.com/spreadsheets/d/1OcVoirOf_jX8bqbGFWREqlxD1GAqkBj7Dk4cik1PlLo/edit?gid=1965789325#gid=1965789325) that shares a range of frameworks and tools, highlighting their complementary value.
+**Complementary decision making tools:** To support specific CS steps, teams may use complementary decision-making tools (e.g., consequence tables or system maps) from other approaches. Teams can select and combine these tools based on the complexity of the problem and the preferences of the planning team. Indeed, the CS are intentionally designed to integrate principles and tools from other frameworks and approaches, allowing for flexibility and more informed decision making.
 
-![meeting](zimage/meet.png)
+**Other conservation-related standards:** Other frequently used standards (e.g., IUCN’s Green List of Protected Areas or Conservation Assured Tiger Standards) focus on demonstrating best practices in conservation management but are not adaptive management frameworks themselves. They serve to assess how well initiatives meet specific criteria, leading to recognition or support. The use of these standards is similar to how the [Conservation Audit Tool](https://sites.google.com/view/cmp-conservation-audit-tool/home) is used to support the CS. 
 
-:::{seealso} BOX 2: GETTING MORE INFORMATION ON KEY THEMES
+For a deeper discussion, see this [living table](https://docs.google.com/spreadsheets/d/1OcVoirOf_jX8bqbGFWREqlxD1GAqkBj7Dk4cik1PlLo/edit?gid=1965789325#gid=1965789325) that shares a range of frameworks and tools, highlighting their complementary value.
+
+[^4]: See Annex 1 Glossary for definitions of bolded technical terms.
+
+![meeting](zimage/meet.png) <br>
+
+:::{important} BOX 2: GETTING MORE INFORMATION ON KEY THEMES
 :class: dropdown
 CS 5.0 includes deeper treatment on a number of themes prioritized by our community, as summarized here. Where relevant, each CS step section integrates concepts related to these themes. In the interest of keeping the Conservation Standards focused primarily on high-level practices and principles, some thematic groups have developed supplemental briefs that explain more about the theme, provide high-level guidance, and share resources. 
 
@@ -228,7 +232,7 @@ When using the Conservation Standards, it is important to keep in mind the follo
   - RATIONALE
 * - Target
   - Focal Value
-  - Earlier versions of the CS have used “target” to refer to a factor in the system on which a team has chosen to focus. Much of the world (including global conventions) uses the term “target” to mean the quantitative or qualitative measurement of an indicator to be achieved as part of a SMART goal or objective. Many in the CS community have expressed concerns about the way we use “target.” Given this situation, we feel our community should align our language with other sectors and global conventions.[^5]
+  - Earlier versions of the CS have used “target” to refer to a factor in the system on which a team has chosen to focus. Much of the world (including global conventions) uses the term “target” to mean the quantitative or qualitative measurement of an indicator to be achieved as part of a SMART goal or objective. Many in the CS community have expressed concerns about the way we use “target.” Given this situation, we feel our community should align our language with other sectors and global conventions.[^6]
 * - Desired future state
   - Target
   - See target above
@@ -240,4 +244,4 @@ When using the Conservation Standards, it is important to keep in mind the follo
   - The term “stakeholder” has colonial associations.  
 :::
 
-[^5]: There can be different types of focal values (e.g., biodiversity, climate, human wellbeing, cultural), and teams should use the terms that work best for their audiences.
+[^6]: There can be different types of focal values (e.g., biodiversity, climate, human wellbeing, cultural), and teams should use the terms that work best for their audiences.
