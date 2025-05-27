@@ -1,5 +1,5 @@
 ---
-author: Conservation Measures Partnership
+# author: Conservation Measures Partnership
 date: 
 license: CC-BY-4.0
 kernelspec:
@@ -40,6 +40,7 @@ refine and improve the Conservation Standards.
 :align: left
 ```
 
+## Creative Commons License
 Use of this Material: This work is licensed for use under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Under this license, you may take the Conservation Standards and adapt or modify them as you see fit, provided you a) reference the original Conservation Standards (but not in any way that suggests that CMP endorses this derived work), and b) issue the derived work under a similar Creative Commons license or equivalent. You can also formally contribute your modifications to CMP, which will consider incorporating them in a future official version of the Conservation Standards. This process ensures that the Standards evolve through the input of a wide variety of practitioners, are adaptable to individual organizations’ needs, and yet provide a carefully managed global standard for conservation work.
 
 ## Background
