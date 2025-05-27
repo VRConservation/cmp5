@@ -22,6 +22,13 @@ At this step, you should revisit or create a team charter or other partnership a
 
 This concept should be incorporated in how the team functions, as well as how the work is implemented. If your project is likely to continue over many years, you will want to consider how the team will deal with succession planning. For example, you should be documenting your decisions and progress, so that you can more easily bring new team members on board.
 
+:::{tip} 3A OUTPUTS
+:class: dropdown
+
+- Updated team charter and other partnership agreements, as relevant 
+- Updated communications strategy stating how you will keep interested parties engaged as to your progress
+:::
+
 ## 3B. Develop Work Plan & Timeline
 In the previous steps of the Conservation Standards cycle, your team developed your strategic plan, monitoring plan, and operational plan ({numref}`8plans`, Plan Chapter). In this step, you need to turn these general plans into more specific ones and then implement them on an ongoing basis.
 
@@ -58,6 +65,13 @@ Also, you may need to share your implementation progress outside of your team an
 Work plan extract for a marine site, showing Assignment of people and work units. Key: Yellow hexagon = action, yellow oval = activity, and purple oval = monitoring activity.
 :::
 
+:::{tip} 3B OUTPUTS
+:class: dropdown
+
+- Work plan detailing the activities, tasks, and responsibilities associated with your strategic, monitoring, and operational plans
+- Project timeline or calendar
+:::
+
 ## 3C. Develop and Refine Budget
 Your work plan is a critical input for developing a project budget. You should now have a clear decision of the actions, activities, and tasks you need to undertake and so will be in a good position to determine the time and financial resources you need to successfully implement your strategic plan. As a starting point, you should use your initial analysis of funding required that you developed in your operational plan (Step 2C). This, along with your strategic plan and your work plan, will help you develop a more refined estimate of costs for specific activities and the broader actions and strategies into which those feed.
 
@@ -77,6 +91,14 @@ Once you have developed your project budget, you will likely need to identify po
 In addition to using the strategic plan to inform funding proposals, you can incorporate ongoing results and lessons learned into your proposals and reports to show donors the progress, learning, and adaptation taking place. This provides an opportunity to help donors understand the value of supporting – teams that use a Conservation Standards approach from the strategic decision making that informs the design and planning (including clear approaches to measure progress and impact) to the critical thinking and reflection that go into the monitoring, analysis, and adaptation. Moreover, many funders request specific elements, such as theories of change, in proposals. Using a CS approach puts your team in a good position to meet these funder requirements.
 
 Ideally, you would seek and acquire funding for your highest priority actions from the start. In reality, you may need to adjust to opportunities and constraints and may find that your initial funding focuses on some medium- or lower-priority actions. That’s fine, as long as you do not lose sight of your high priority actions, and you work to implement them as soon as feasible. This is a good point to reflect on whether it is probable you will be able to meet your project goals and objectives in the anticipated timeframe and with the likely staff and financial resources. You may need to make some important decisions about your project, including whether you need to eliminate, postpone, or scale back any of your actions, activities, or tasks or potentially pass them off to a capable partner. You should also reflect on the adaptations you might need to make and determine whether your overall project can still be effective and if it makes sense to continue forward.
+
+:::{tip} 3C OUTPUTS
+:class: dropdown
+
+- Project budget
+- List of potential funding sources
+- Funding proposals developed and submitted
+:::
 
 ## 3D. Implement Plans
 Implementing your project involves putting your strategic, monitoring, and operational plans into action and ideally, according to schedule and within budget. To start, it is beneficial to have an initial meeting for the project team (especially if there are new people). This is an opportunity for team building and to ensure all team members are familiar with the project design, team charter, budget allocations, donor contractual conditions, internal policies, and other relevant details. It is also a good time to review how internal decisions are made and how the project will address conflicts that may arise. Your communications strategy can help your team have a clear understanding of how everyone will communicate about the project internally and how you will report outcomes and progress to the public.
@@ -100,4 +122,23 @@ As your team collects monitoring data (related to implementation, results, and o
 :::{figure} zimage/22data.png
 :name: 22data
 Example of monitoring data
+:::
+
+:::{tip} 3D OUTPUTS
+:class: dropdown
+
+- Implementation of strategic, monitoring, and operational plans (as outlined in your work plan),
+keeping in mind your project budget and schedule 
+- Systems for storing and accessing data - Monitoring data captured in systems 
+- Implementation progress reports to your organization, funders, and other interested parties
+:::
+
+:::{seealso} IMPLEMENT RESOURCES
+:class: dropdown
+
+[CS Library Resources](https://www.conservationstandards.org/resources): Filter by "Implement" and then search within, if desired, by guidance, case studies, or other search terms
+
+[Recipes for Conservation: A Conservation Standards Toolkit](https://www.conservationstandards.org/library-item/cs-toolkit/): Navigate to the relevant Tipsheets in the Recipe Toolkit, as well as the Implement sections in the Examples & Resources document
+
+[Real-world Examples of Applications of the Conservation Standards](https://www.conservationstandards.org/case-studies/)
 :::

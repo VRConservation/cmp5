@@ -187,6 +187,16 @@ Some important considerations in objective setting (beyond SMART criteria) inclu
 **Strategic Plan Pulling It All Together**
 You should capture and document your scope, situation analysis, and actions (including theories of change, goals, and objectives) formally in your strategic plan (refer back to {numref}`8plans`). Establishing a structured, technology based system to link your actions to your results, goals, and objectives will enhance tracking and accountability. Depending on your needs and the level of detail required, this system could range from a simple table to something more comprehensive, such as a database, with folder hierarchies to organize and store documents. A clear system will help you keep all relevant data and documentation organized, accessible, and easily updated.
 
+:::{tip} 2A OUTPUTS
+:class: dropdown
+
+- Goals for each biodiversity focal value and, if appropriate, human wellbeing focal value
+- Identification of key intervention points and draft actions 
+- Prioritization of draft actions 
+- Theories of change that clarify assumptions about how actions and associated activities lead to expected results 
+- Objectives for key intermediate
+:::
+
 ## 2B.  Develop MEL Plan
 This sub-step includes outlining monitoring, evaluation, and learning protocols to develop a comprehensive **monitoring plan** . Your monitoring plan will help you track progress towards stated goals and objectives, evaluate progress along and key assumptions associated with your theory of change, and address information needs related to uncertainties identified earlier (e.g., in your situation analysis, action selection, or theories of change). The monitoring plan will also be helpful in identifying the resources needed for implementation, developing a timeline for data collection and analysis, and reflecting on potential risks. The level of rigor and the type of monitoring you do will depend upon your confidence in your key assumptions (i.e., the degree of evidence to support your assumptions), the consequences of being wrong, the stage of your project, and available resources.
 
@@ -255,17 +265,47 @@ Finally, and in preparation for Steps 3 (Implement) and 4 (Analyze & Adapt), you
 Extract of a monitoring plan for promoting climate-smart urban approaches.
 :::
 
+:::{tip} 2B OUTPUTS
+:class: dropdown
+
+- Audiences and their information needs and preferred communication modes clearly defined
+- Indicators and methods identified
+- Finalized monitoring, evaluation, and learning plan
+:::
+
 ## 2C.  Develop Operational Plan
 Conservation projects are ultimately implemented by people and institutions. Even the best strategic plans and monitoring plans are of little utility if you cannot put them into operation. With this in mind, this sub step involves developing an operational plan for your project. Key components of an **operational plan** include analyses of:
 
-- Human capacity, skills, and other non **financial resources** required to implement your project and what you need to do to develop those resources, including cultivating partnerships. You can use your theories of change and activities to develop high-level time estimates and to identify the skills required to implement your actions and the associated monitoring activities. It is also useful to refer back to your early work on identifying your team and the key skills and skill gaps within your team.
+- **Human capacity, skills, and other non-inancial resources** required to implement your project and what you need to do to develop those resources, including cultivating partnerships. You can use your theories of change and activities to develop high-level time estimates and to identify the skills required to implement your actions and the associated monitoring activities. It is also useful to refer back to your early work on identifying your team and the key skills and skill gaps within your team.
 
-- Funding** required to implement your project and an accounting of your current and potential sources of these funds. To identify the funding needed, your team should develop broad estimates using your analyses of human capacity, skills, and other resources. Be sure you include any major equipment expenses (e.g., vehicles). Again, your theories of change will provide a good framework for making those high-level estimates.
+- **Funding** required to implement your project and an accounting of your current and potential sources of these funds. To identify the funding needed, your team should develop broad estimates using your analyses of human capacity, skills, and other resources. Be sure you include any major equipment expenses (e.g., vehicles). Again, your theories of change will provide a good framework for making those high-level estimates.
 
-- Risk factors** of concern for your project and how they can be addressed. A risk factor is an uncertain event or condition which, if it occurs, has a negative effect on at least one project element (e.g., time, cost, scope, or quality). Risks can be subdivided into programmatic risks that affect your situation (e.g., political instability, drought) and operational risks that affect your ability to implement the project (e.g., change in organizational leadership, limited capacity of partners). A risk assessment should rate both the probability of the risk factor occurring and the impact or severity of the risk factor if it does occur. The purpose of a risk assessment is to identify issues that could negatively impact the project’s ability to implement key actions effectively and/or achieve conservation goals, including any impacts on rights holders and other interested parties. A risk assessment also identifies additional actions necessary to mitigate or avoid those risks. As such, a risk assessment is an important input for action selection (Step 2A). A risk assessment template (defined by your organization, if relevant) is useful to document and rate your risks, prioritize your efforts, and re-rate the risks as your project evolves.
+- **Risk factors** of concern for your project and how they can be addressed. A risk factor is an uncertain event or condition which, if it occurs, has a negative effect on at least one project element (e.g., time, cost, scope, or quality). Risks can be subdivided into programmatic risks that affect your situation (e.g., political instability, drought) and operational risks that affect your ability to implement the project (e.g., change in organizational leadership, limited capacity of partners). A risk assessment should rate both the probability of the risk factor occurring and the impact or severity of the risk factor if it does occur. The purpose of a risk assessment is to identify issues that could negatively impact the project’s ability to implement key actions effectively and/or achieve conservation goals, including any impacts on rights holders and other interested parties. A risk assessment also identifies additional actions necessary to mitigate or avoid those risks. As such, a risk assessment is an important input for action selection (Step 2A). A risk assessment template (defined by your organization, if relevant) is useful to document and rate your risks, prioritize your efforts, and re-rate the risks as your project evolves.
 
-- Social safeguards** your team has in place to protect individuals and communities from adverse impacts. These safeguards aim to ensure that the rights, wellbeing, and interests of vulnerable or marginalized groups are respected and protected. Some examples of social safeguard mechanisms include free prior and informed consent (FPIC) for Indigenous communities, grievance redress mechanisms, and training for staff on ethical practices;
+- **Social safeguards** your team has in place to protect individuals and communities from adverse impacts. These safeguards aim to ensure that the rights, wellbeing, and interests of vulnerable or marginalized groups are respected and protected. Some examples of social safeguard mechanisms include free prior and informed consent (FPIC) for Indigenous communities, grievance redress mechanisms, and training for staff on ethical practices;
 
-- Transition strategy** to clarify how long your project will last and how you will ensure the sustainability of your project’s achievements beyond your team’s involvement. While we include this element under the operational plan sub step, it is important to consider sustainability and transition options at the start of your project. Doing so helps ensure that associated actions are included in your work plan and can be adapted as your project evolves. Ignoring these factors can lead to unrealistic expectations among the project team and interested parties, which can become increasingly difficult to manage over time. The first two components of an operational plan technically form the basis for a (high level) work plan and budget, both of which are covered more thoroughly under Step 3. The level of detail and formality of your operational plan will vary, depending on the size and complexity of your project. Small projects may only briefly touch on each of these topics, whereas large, complex ones might have an extensive and formal treatment of each.
+- **Transition strategy** to clarify how long your project will last and how you will ensure the sustainability of your project’s achievements beyond your team’s involvement. While we include this element under the operational plan sub step, it is important to consider sustainability and transition options at the start of your project. Doing so helps ensure that associated actions are included in your work plan and can be adapted as your project evolves. Ignoring these factors can lead to unrealistic expectations among the project team and interested parties, which can become increasingly difficult to manage over time. 
 
-At the conclusion of the Plan Step, you will now have most of the products of a conservation plan (Figure 8). Depending on your needs, you may want to compile this information into a formal plan. Or, if you are using software like Miradi, you can maintain this information in the software and produce the relevant plans and documentation as needed. This creates a “living” plan that can be updated easily as your project evolves. It also enables ongoing linkage of data, such as budgets, with other organizational systems.
+The first two components of an operational plan technically form the basis for a (high level) work plan and budget, both of which are covered more thoroughly under Step 3. The level of detail and formality of your operational plan will vary, depending on the size and complexity of your project. Small projects may only briefly touch on each of these topics, whereas large, complex ones might have an extensive and formal treatment of each.
+
+At the conclusion of the Plan Step, you will now have most of the products of a conservation plan ({numref}`8plans`). Depending on your needs, you may want to compile this information into a formal plan. Or, if you are using software like Miradi, you can maintain this information in the software and produce the relevant plans and documentation as needed. This creates a “living” plan that can be updated easily as your project evolves. It also enables ongoing linkage of data, such as budgets, with other organizational systems.
+
+:::{tip} 2C OUTPUTS
+:class: dropdown
+
+- Assessment of human, financial, and
+other resources
+- Risk assessment and mitigation actions 
+- Social safeguards 
+- Estimate of project lifespan and transition strategy
+:::
+
+:::{seealso} PLAN RESOURCES
+:class: dropdown
+
+[CS Library Resources](https://www.conservationstandards.org/resources): Filter by “Plan” and then search within, if desired, by guidance, case studies, or other search terms
+
+[Recipes for Conservation: A Conservation Standards Toolkit](https://www.conservationstandards.org/library-item/cs-toolkit/): Navigate to the relevant Tipsheets in the Recipe Toolkit, as well as the Plan sections in the Examples & Resources document
+
+[Real-world Examples of Applications of the Conservation Standards](https://www.conservationstandards.org/case-studies/)
+:::

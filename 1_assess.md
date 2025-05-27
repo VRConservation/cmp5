@@ -34,6 +34,16 @@ As you form your team, procedural equity is important to consider. This might in
 
 You may also wish to identify one or more advisors to whom your team can turn to honest counsel. Ideally, these are influential people with the ability to positively affect your work. Once you understand the network of interested parties, it is helpful to revisit whether any of these individuals should be part of your project team and, if so, determine how they might overcome any barriers to participation (if relevant).
 
+:::{tip} 1A OUTPUTS
+:class: dropdown
+
+- Identification of purpose, decision makers, decision-making process, and decisions needed 
+- Identification and engagement of interested parties and support for their participation where barriers exist 
+- Selection of initial project team, including project leader, core members, and advisory members 
+- Identification of existing skills among team members and key gaps you should fill 
+- Designation of roles and responsibilities
+:::
+
 ## 1B. Define Scope, Vision, & Focal Values
 
 **Scope**
@@ -92,7 +102,7 @@ As conservation is inevitably a social undertaking, it is important to show both
 When selecting potential human wellbeing and biodiversity focal values, teams may want to review various global frameworks to better understand their project’s relationship with and contribution to these global initiatives. Many of these frameworks address global challenges and work towards ensuring a more sustainable future by encouraging actions to improve human wellbeing, reduce environmental degradation, and create the conditions to optimize both. There are numerous frameworks that teams can reference, such as the United Nations Sustainable Development Goals, Kunming-Montreal Global Biodiversity Framework, United Nations Environment Programme Navigating New Horizons, and IUCN’s Cultural and Spiritual Significance of Nature, among others.
 :::
 
-[^7]: _Ibid_.
+[^7]: _Ibid_
 
 :::{figure} zimage/3sitmo.png
 :name: 3sitmo
@@ -111,6 +121,16 @@ When you consider the potential impacts of climate change later in the process, 
 - whether, in light of projected changes, your actions can still be effective at maintaining or improving the status of your focal values. 
 
 Once you have done this, we recommend revisiting your scope and focal values. For projects whose primary aim is to avoid, reduce, or sequester greenhouse gases, your team should include as focal values the ecosystems you will conserve, manage, and/or restore to achieve this change in greenhouse gases.
+:::
+
+:::{tip} 1B OUTPUTS
+:class: dropdown
+
+- Brief description of the project scope, including a map, if appropriate 
+- Vision statement for the project 
+- Selection of focal values, including a brief explanation of why they were chosen, and if appropriate, a description and/or map showing each focal value’s location 
+- Selection of human wellbeing focal values and identification of ecosystem services, as relevant 
+- Description of the viability status of each priority biodiversity focal value
 :::
 
 ## 1C. Identify Critical Threats
@@ -135,6 +155,14 @@ It is important to understand the biophysical effects of climate threats because
 :::
 
 In order to concentrate your actions and resources where they are most needed, it is important to prioritize the direct threats that affect your biodiversity focal values. In particular, you should try to determine your **critical threats** – the ones that are most important to address. You can use a number of threat rating and ranking tools to help you prioritize. Most tools consider the extent of the threat and the severity of its impacts on the biodiversity focal values. Taken together, these two criteria assess overall threat magnitude. Other frequently used criteria include permanence/ irreversibility and urgency. Some common options for prioritizing threats include: an absolute rating of each threat as it affects different biodiversity focal values, a stress based rating which assesses the effect of stresses (altered key ecological attributes) on focal values and the contribution of different threats to the **stresses**, and a relative ranking which compares different threats to one another. It is important to consider the entire suite of direct threats and not limit your analysis to the threats your team or organization has the expertise or resources to anticipate and address. Also keep in mind that if an aspect of human wellbeing is particularly important, your team may want to rate the threat to that human wellbeing element. You may need to consider how that threat might differ for human wellbeing versus biodiversity focal values.
+
+
+:::{tip} 1C OUTPUTS
+:class: dropdown
+
+- Identification of direct threats and, if relevant, a map showing the spatial footprint for critical threats as they intersect focal values 
+- Identification of the biophysical effects of climate threats and interactions among climate and conventional threats - Rating or ranking of direct threats to identify critical threats
+:::
 
 [^8]: The synonym “pressure” may be helpful in cases where the term “threat” may not be well received by interested parties (e.g., ranchers or loggers) whose actions or professions might be identified as a “threat.” It is also helpful to use adjectives such as “unsustainable” or “illegal” to clarify the nature of the threat (e.g., unsustainable ranching).
 
@@ -170,6 +198,25 @@ If your team includes human wellbeing focal values in your situation model, you 
 :name: well
 :height: 500px
 Example situation model extract with human wellbeing focal values.
+:::
+
+
+:::{tip} 1C OUTPUTS
+:class: dropdown
+
+- Identification and analysis of indirect threats and opportunities
+- Assessment of interested parties and their primary interests
+- Situation analysis and/or model, narrative description, and/or other representation of key cause-and-effect relationships among factors affecting your project context
+:::
+
+:::{seealso} ASSESS RESOURCES
+:class: dropdown
+
+[CS Library Resources](https://www.conservationstandards.org/resources): Filter by “Assess” and then search within, if desired, by guidance, case studies, or other search terms
+
+[Recipes for Conservation: A Conservation Standards Toolkit](https://www.conservationstandards.org/library-item/cs-toolkit/): Navigate  to the relevant Tipsheets in the Recipe Toolkit, as well as the Assess sections in the Examples & Resources document
+
+[Real-world Examples of Applications of the Conservation Standards](https://www.conservationstandards.org/case-studies/)
 :::
 
 [^5]: This figure provides an alternative way to show the relationship between your biodiversity focal values and human wellbeing focal values that may resonate with different audiences. See [CMP (2016) Incorporating Social Aspects and Human Wellbeing in Biodiversity Conservation Projects](https://conservationstandards.org/library-item/addressing-human-wellbeing) for further guidance. Note this guidance will likely be updated over time.

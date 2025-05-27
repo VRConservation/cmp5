@@ -20,6 +20,12 @@ You can capture these results and knowledge in many ways (e.g., informal or inte
 
 If you document the evidence you generated and your lessons learned, you will be able to better remember from year to year what you have done, what worked, what didn’t work, and what you plan to do in the future (Refer back to Step 4A for reminders on data management). This will help your current project team over the long term and will ensure that new project staff have a record of what you did and what you learned. Importantly, it will also help the team avoid repeating past mistakes. If you use project management software like Miradi, you can record comments to ensure that knowledge becomes part of the project’s historical record.
 
+:::{tip} 5A OUTPUTS
+:class: dropdown
+
+- Documentation of key results and knowledge
+:::
+
 ## 5B. Share What You Learn
 The Conservation Standards are iterative, and you should consider this Share Step throughout the cycle. Documenting and sharing what you have learned will help practitioners working under similar conditions or using similar approaches benefit from your experience, avoid the types of problems you have encountered, and ultimately, more effectively achieve their conservation goals.
 
@@ -31,6 +37,26 @@ How and what you share with interested parties will depend on the needs, interes
 
 For sharing lessons and information with the broader conservation community, there is a range of alternatives, including contributing to evidence [libraries (e.g., the Conservation Actions and Measures](https://conservationstandards.org/library-item/caml/) [Library), publishing in scientific journals, authoring](https://conservationstandards.org/library-item/caml/) gray literature, posting lessons on your website or in email lists, sharing learning via social media, teaching a course or guest lecturing, and telling your stories at workshops and conferences. Consider using technology like StoryMaps, dashboards, and other spatial tools to visualize your information in a compelling way. More generally, to exchange knowledge and lessons and gather insights from others’ experiences, it can be very helpful to join a **community of practice** or email list.
 
+# 5C. Foster a Learning Environment
 Good conservation practice involves fostering a performance and learning culture within your project team, across your organization and partners, and among conservation practitioners around the world. A performance and learning culture at these levels is important to ensure that all parties learn and benefit from your team’s experience. Although this is listed as the last step, it really is something you and your organization need to cultivate throughout the cycle (as an overarching principle and a key concept to Close the Loop). To most effectively apply the Conservation Standards, you need to work in an environment that promotes transparent, evidence based conservation and adaptive management. This means that you, your team, and your organization should be regularly reflecting, seeking feedback, and providing feedback. That feedback could be formal or informal and might come from your team members or other staff members. Alternatively, it might come from external mechanisms, such as evaluations, which assess a project against its own stated goals and objectives, and audits, which assess a project against a set of process standards (e.g., the Conservation Standards). In creating a learning environment, it is important to be open to outside opinions that can give you fresh and insightful perspectives.
 
 Fostering a learning environment is not easy. It requires leaders and donors who understand the need to reallocate scarce resources from immediate action to the long-term work of evidence-based conservation and adaptive management. It often involves enabling practitioners to take chances and question the conventional wisdom related to specific conservation tools and actions. It entails providing teams with the institutional security that innovation and questioning assumptions are valued in their organizations. And it requires a commitment to share both successes and failures with other practitioners around the world and to create true communities of practice. With this in mind, the Conservation Standards community itself benefits from sharing with one another our own experiences, challenges, and successes in applying the Conservation Standards within our organizations and agencies. Doing so helps us learn how to better institutionalize, improve, and adapt the Conservation Standards themselves.
+
+:::{tip} %C OUTPUTS
+:class: dropdown
+
+- Regular feedback shared formally or informally
+- Audits, as appropriate, to assess adherence to good conservation practice
+- Demonstrated commitment from leaders and staff to create a safe environment for learning and innovation
+- A commitment to share successes and failures with practitioners around the world
+:::
+
+:::{seealso} SHARE RESOURCES
+:class: dropdown
+
+[CS Library Resources](https://www.conservationstandards.org/resources): Filter by “Share and then search within, if desired, by guidance, case studies, or other search terms
+
+[Recipes for Conservation: A Conservation Standards Toolkit](https://www.conservationstandards.org/library-item/cs-toolkit/): Navigate to the relevant Tipsheets in the Recipe Toolkit, as well as the Share sections in the Examples & Resources document
+
+[Real-world Examples of Applications of the Conservation Standards](https://www.conservationstandards.org/case-studies/)
+:::
