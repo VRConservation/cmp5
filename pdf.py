@@ -3,14 +3,14 @@
 import subprocess
 
 chapters = [
-    "1_intro.md",
-    "2_assess.md",
-    "3_plan.md",
-    "4_implement.md",
-    "5_analyze.md",
-    "6_share.md",
-    "7_close.md",
-    "8_annex.md"
+    "0_intro.md",
+    "1_assess.md",
+    "2_plan.md",
+    "3_implement.md",
+    "4_analyze.md",
+    "5_share.md",
+    "6_close.md",
+    "7_annex.md"
 ]
 
 for filename in chapters:
