@@ -23,6 +23,7 @@ As with many of the Conservation Standards steps and sub-steps, much of what you
 ## 2A. Develop Strategic Plan
 
 **Goals**
+
 Developing a clear idea of what you would like to accomplish is an essential early step in putting together your strategic plan. **Goals** are linked to your project’s focal values (conservation and/or human wellbeing) and represent the desired status of those focal values over the long term. They are formal statements of the ultimate **impacts** you hope to achieve. A good goal meets “SMART” criteria: *specific, measurable, achievable*, *results-oriented*, and *time-limited* (see Annex 2 and Box 6). As with every step of your plan, your goals will be heavily influenced by the values of the team involved in their development. Be sure you are including a variety of perspectives from many interested parties.
 
 :::{important} BOX 6: SETTING GOOD GOALS AND OBJECTIVES
@@ -57,9 +58,11 @@ For projects whose primary aim is to avoid, reduce, or sequester greenhouse gase
 ::
 
 **Actions**
+
 Once you determine what you ultimately want to achieve (your goals), you should think about what you need to do (actions and activities). Good strategic planning involves determining where and how you will intervene, as well as where you will not. It also involves transparently and inclusively identifying whom you need to influence, who holds historical power, and whose voices need to be elevated.
 
 **Selecting Key Intervention Points**
+
 When developing your actions, you will want to prioritize the factors you need to influence to improve the context outlined in your situation analysis and/or model – these are the **key intervention points** . To identify key intervention points, you need to evaluate all factors and, using available evidence (including traditional knowledge), identify which ones show good leverage opportunities and are likely to impact the focal value the most. Some considerations to evaluate leverage potential include contribution to threat abatement, ability to influence multiple factors in the model (including motivations for and barriers to behavior change), and urgency of addressing the factor (or its downstream factors).
 
 In theory, any factor in a situation model offers an opportunity for intervention. In some cases, the obvious key intervention point is the direct threat itself (e.g., removing or managing invasive species) or the biodiversity focal value (e.g., restoration of an ecosystem). But in many other cases, you will get more leverage if you intervene on an indirect threat or opportunity that is part of a chain of factors affecting a direct threat (e.g., influencing policy or promoting good management practices). Your team’s leverage on a factor may depend on your relationship with the actors involved in that behavior. {numref}`9inter` shows an example of key intervention points and actions (depicted as hexagons) to address them.
@@ -167,6 +170,7 @@ Project example with a manageable interest not directly tied to biodiversity.
 :::
 
 **Objectives**
+
 Objectives are formal statements of the outcomes (or intermediate results in your results chains) that you believe are necessary to attain your goals. Objectives specify the degree of change that your team assumes is necessary to achieve in the short and medium term. Your objectives should be clear about the actors and the desired behaviors. Good objectives (and goals) meet “SMART” criteria: *specific, measurable, achievable,* *results* - *oriented,* and *time* - *limited* (See Annex 2). 
 
 As shown in {numref}`12rclim`, your objectives are tied to the results that are necessary for your theory of change to hold. It is generally good practice to have an objective for the direct threat (unless this is outside your manageable interest, as illustrated in {numref}`16bd`). This direct threat objective (and its target value) should be informed by the goal you set for your biodiversity focal value. It will be important to work through each objective to define what is appropriate and to ensure that the criteria for good objectives are met. You may need to use an iterative approach, revisiting and refining your objectives (and/or your actions and associated theories of change) as more information becomes available. Box 8 includes some additional considerations for setting objectives.
@@ -185,6 +189,7 @@ Some important considerations in objective setting (beyond SMART criteria) inclu
 :::
 
 **Strategic Plan Pulling It All Together**
+
 You should capture and document your scope, situation analysis, and actions (including theories of change, goals, and objectives) formally in your strategic plan (refer back to {numref}`8plans`). Establishing a structured, technology based system to link your actions to your results, goals, and objectives will enhance tracking and accountability. Depending on your needs and the level of detail required, this system could range from a simple table to something more comprehensive, such as a database, with folder hierarchies to organize and store documents. A clear system will help you keep all relevant data and documentation organized, accessible, and easily updated.
 
 :::{tip} 2A OUTPUTS
@@ -201,6 +206,7 @@ You should capture and document your scope, situation analysis, and actions (inc
 This sub-step includes outlining monitoring, evaluation, and learning protocols to develop a comprehensive **monitoring plan** . Your monitoring plan will help you track progress towards stated goals and objectives, evaluate progress along and key assumptions associated with your theory of change, and address information needs related to uncertainties identified earlier (e.g., in your situation analysis, action selection, or theories of change). The monitoring plan will also be helpful in identifying the resources needed for implementation, developing a timeline for data collection and analysis, and reflecting on potential risks. The level of rigor and the type of monitoring you do will depend upon your confidence in your key assumptions (i.e., the degree of evidence to support your assumptions), the consequences of being wrong, the stage of your project, and available resources.
 
 **Audiences and Information Needs**
+
 To start developing your monitoring plan, you should specify your **audiences** and their **information needs** . Effective **monitoring** uses the minimum amount of financial and human resources to provide you with the information needed to address key uncertainties and/or determine if your project is on track and achieving stated objectives.
 
 As a first step, you should determine for whom you are doing the monitoring, what they need to know for decision making, when they need the information, and what level of rigor is required to meet their needs. For example, one audience might be your project’s funders who need to know you are spending their money appropriately. Another audience might be interested parties (including Indigenous Peoples and local communities) who want to know whether their concerns and interests are being addressed. A key audience for monitoring is always your own project team. Monitoring is essential to help your team track the implementation of actions and achievement of goals and objectives, test assumptions in your theories of change, reduce uncertainties, learn from information collected, and improve current and future programming. {numref}`table2` lists some common audiences and their general information needs.
@@ -230,6 +236,7 @@ If your monitoring is designed to help understand why actions are working or not
 :::
 
 **Indicators**
+
 With your audiences and information needs identified, the next step is to define the specific **indicator** data and other information you should collect to address your information needs. Good indicators meet the criteria of being *measurable,* *precise, consistent*, and *sensitive* and should be tied to key factors, results, or assumptions in your situation model or theory of change (see Annex 2). Note that some indicators may be qualitative, while others may be quantitative. Likewise, as discussed below, there are a variety of methods to measure any single indicator. Where relevant, indicators also should be informed by the perspectives and values for biodiversity held by Indigenous Peoples and local communities.
 
 :::{seealso} CLIMATE CHANGE CONSIDERATION 6: MONITORING CLIMATE CHANGE EFFECTS AND STRATEGIES
@@ -248,13 +255,15 @@ Conservation-friendly zoning results chain with potential indicators.
 watershed species (species diversity) across watershed government is promoting & funding green infrastructure **Indicators** uncertainty in relationships
 
 **Methods**
+
 As you develop your indicators and identify key information needs, you will need to think about how you will measure them (i.e., the **methods** you will use). Examples of methods could range from conducting wildlife survey transects to downloading satellite imagery on land use patterns to conducting key informant interviews to understand interested party attitudes, beliefs, knowledge, and behaviors. Methods should meet the criteria of *accurate,* *reliable, cost* *effective, feasible*, and *appropriate* (see Annex 2). Where possible, monitoring methods should be participatory, non extractive, and address privacy and data sovereignty concerns.
 
 When choosing a method, your team will see that there is sometimes a tradeoff between a method’s cost and its accuracy and reliability. The key is to select the most cost-effective method that will ensure your data are accurate and reliable enough to meet your management needs. Depending on your needs, you may not have to collect primary data, but instead could take advantage of existing data. For example, one method for getting data about a given fish population would be to download harvest records posted by a government agency on the internet. In some instances, however, primary data collection will be required.
 
 It is helpful to document the specific protocols you use to implement your methods. Doing so will help in data interpretation, as well as future monitoring of the same indicators to detect patterns over time. Ideally, your team should test and adjust indicators and methods before using them. For example, you should pilot survey instruments to ensure they give you the data you need and are not subject to misinterpretation. Likewise, collecting baseline data early on could help you test your methods. If you cannot establish baselines within the first few months of a project, then most likely you need to review the methods or the indicators.
 
-**Monitoring Plan Pulling It All Together**
+**Monitoring Plan - Pulling It All Together**
+
 Your audiences, information needs, indicators, and methods are all part of your monitoring plan. Your plan should also specify roughly when, where, and by whom data will be collected (see {numref}`175monit` for an example monitoring plan). As you develop your monitoring plan, consider how the data collection process may impact interested parties and how that information will be stored (addressing any privacy or data sovereignty concerns). As part of your work planning and budgeting (Step 3), your team should include time and financial resources to support **monitoring activities** and data management.
 
 Finally, and in preparation for Steps 3 (Implement) and 4 (Analyze & Adapt), your team should consider protocols for how you will manage and access data and how you anticipate analyzing and using data to meet the information needs of your key audiences. Incorporating information on your indicators, methods, and supporting data into a structured system that links your actions to your results, goals, and objectives will facilitate your team’s ability to synthesize across all of this information. Additionally, thinking ahead to Step 5 (Share), it's also useful for your team to begin planning for the creation of public data repositories with clear data collection and management protocols so that others can understand, use, and reproduce them.

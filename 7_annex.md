@@ -19,6 +19,7 @@ There is an endless debate among planners as to the meaning of technical terms s
 ![glossguide](zimage/glossguide.png) <br>
 
 **Key Changes in Version 5.0**
+
 There are a couple of notable changes in terminology in CS 5.0. These include:
 
 - **Switching the use of the terms target and value** – As outlined in [WCPA 2024](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.14269) there is linguistic confusion here that people have been struggling to clean up for years. Terms are needed that describe both:

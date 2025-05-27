@@ -1,7 +1,4 @@
 ---
-authors:
-  - id: auth0
-    name: Conservation Measures Partnership
 license: CC-BY-4.0
 kernelspec:
     name: python3
@@ -19,6 +16,7 @@ This step in the Conservation Standards cycle involves specifying the basic para
 ## 1A. Define Purpose & Identify Team
 
 **Define Purpose of Conservation Standards Work**
+
 You can enter the Conservation Standards cycle at any point in the process.[^5] Wherever you enter, you should start by being clear about why you are using the Conservation Standards and how you think they will support your team (e.g., develop a full strategic plan, reflect on effectiveness of work to date). This includes clarifying the specific decisions, decision makers, and people the CS process will impact positively and/or negatively. As part of this review, you may find it useful to revisit your organization’s mission and current priorities to help clarify decisions already made, decision maker expectations, and assumptions about funding and other resources. If you are collaborating with partners, you should also compare your respective missions and priorities at the outset and identify where your needs and values are compatible, as well as where there may be tension or conflict. Likewise, if you expect to work with a specific donor, you may want to encourage the use of the Conservation Standards as the primary process, or at least crosswalk terms and steps to increase understanding.
 
 As relevant, you should also draw on what you and others have learned from earlier iterations of your project and/or similar projects. This review will help you determine how much effort you should invest in this process and which steps are relatively more important than others. For example, if focal values and goals have already been identified and a threat assessment exists, then you may be able to review them and move on to developing your situation analysis and strategies.
@@ -26,6 +24,7 @@ As relevant, you should also draw on what you and others have learned from earli
 [^5]: As a reminder, [Recipes for Conservation: A Conservation Standards Toolkit](https://conservationstandards.org/library-item/cs-toolkit) provides teams with a variety of ways to enter and adapt the Conservation Standards process, recognizing the different needs and resources of teams. other team norms and functions through a team charter and/or partnership agreement(s). In the case of partnerships, teams should also carry out due diligence to identify and remedy any potential issues before entering into formal partnerships.
 
 **Project Team**
+
 Your **project team** is the group of individuals who design and implement your work. Team members often include people from your organization, as well as key **partners** and **interested parties** . Interested parties include key partners and other individuals, groups, or institutions that have a vested interest in or can influence the project and/or that may be affected by project activities and have something to gain or lose. It is important to think about how to involve a variety of interested parties, as your plan and its acceptance depend heavily on who is included in the team. Teams typically have a project leader who is responsible for the overall coordination and moving the team forward. Some organizations also have a higher level manager to whom the team reports. In general, it is important to be clear about all team member roles and responsibilities. It is helpful to formalize these and 
 
 In forming your team, it is important to understand the skills and experience needed and recognize who would bring those skills and where you may have gaps that you need to fill. In addition to the technical or programmatic expertise, many teams need access to administrative, financial, and communications skills. The team composition may change as you move through the CS cycle and as your project needs change or evolve.
@@ -47,6 +46,7 @@ You may also wish to identify one or more advisors to whom your team can turn to
 ## 1B. Define Scope, Vision, & Focal Values
 
 **Scope**
+
 Before you think about what actions you will implement, you should have a good understanding of what you broadly hope to accomplish, as this will help determine your scope and be the foundation of all your planning work. A project’s **scope** defines what the project intends to affect but does not necessarily limit where actions that affect the scope take place. There are three common options:
 
 - **Place based scopes** have a geographic focus and include efforts to conserve or manage ecoregions, ecosystems, priority areas, or protected areas. An example of a place based scope is a national park, encompassing the different ecosystems and biodiversity contained within the park boundaries.
@@ -66,6 +66,7 @@ In projects with a geographic footprint (and even those that focus on a theme), 
 Given the dynamic roles humans play in conservation outcomes, it is common for teams to incorporate human wellbeing when developing their conservation projects. While addressing human wellbeing alongside conservation efforts is ideal, it often comes with different skill sets and resource needs. It is important to recognize this and clearly define what falls inside and outside the scope of the project.
 
 **Vision**
+
 In addition to defining the scope, it is also necessary to decide on a clear and common **vision** – a description of the desired state or ultimate condition that you are working to achieve. You can summarize your vision in a vision statement, which meets the criteria of being *relatively general, visionary, and* *brief* (see Annex 2 for descriptions of these criteria). A project’s vision should also consider the context of your organization’s mission and the needs and interests of other parties within your project scope.
 
 :::{seealso} CLIMATE CHANGE CONSIDERATION 1: SCOPE AND VISION
@@ -79,9 +80,11 @@ Your vision should be forward looking, describing a future ecological state that
 :::
 
 **Focal Values**
+
 A **focal value** is what a project seeks to ultimately affect. It is often an element chosen to represent key aspects of the overall system. Types of focal values include biodiversity values (e.g., species, habitats, or ecosystems), climate values, cultural values, and human wellbeing values. In CS 5.0, we are substituting the term “focal value” for the previously used term “target.”
 
 **Biodiversity Focal Values**
+
 Once your team is clear on your project scope, you should select a limited number of **biodiversity focal values** (also known as ecological focal values).[^6] These focal values are specific, tangible entities that your project is working to conserve and that represent and encompass the ultimate aims of the project. They form the basis for setting goals, selecting actions, and measuring impact. The specificity of biodiversity focal values will vary with the scope or type of project:
 
 - **For projects with a place or focal value based scope,** biodiversity focal values are ecological systems, habitats, and/or specific species chosen to represent and encompass the full suite of biodiversity within the scope. For a place-based scope, conservation of the chosen suite of focal values should, in theory, ensure the conservation of all ecosystems and species within the project scope. Most place based projects can be reasonably well defined by eight or fewer well chosen biodiversity focal values. Larger scale place based projects may require either a few more focal values or coarser focal values (e.g., an assemblage of species, rather than a specific species). Projects may also focus on a single biodiversity focal value, such as an iconic flagship species (e.g., tigers) or an ecosystem (e.g., mangroves).
@@ -95,6 +98,7 @@ In most cases, you should determine the current status of each biodiversity foca
 [^6]: In CS 5.0, we are substituting the term “focal value” for the previously used term “target.” This change is to be consistent with the Convention on Biological Diversity and other international fora which use “value” for the focal element of a protected area and “target” for the desired future measurement of a SMART goal or objective (e.g., the 30 x 30 target).
 
 **Human Wellbeing Focal Values**
+
 As conservation is inevitably a social undertaking, it is important to show both how humans may impact the outcome of a project and how your work directly affects humans.[^7] As part of the process of identifying your focal values and developing your situation model, you should consider including **human wellbeing focal values** . At this point, your human wellbeing focal values typically encompass those components of human wellbeing affected by the status of biodiversity focal values and associated **ecosystem services** (Box 5). Examples include physical, mental, and spiritual health, livelihoods and material wellbeing, social relationships, cultural identity, and safety. {numref}`3sitmo` shows these general relationships, including how biodiversity and human wellbeing focal values may affect one another. Identifying human wellbeing focal values is another place where geospatial approaches can be useful, helping your team visualize and better understand potential ecosystem services and other relevant factors that may impact your human wellbeing focal values.
 
 ::: {important} BOX 5: USING GLOBAL FRAMEWORKS TO HELP FRAME HUMAN WELLBEING LINKAGES
@@ -169,6 +173,7 @@ In order to concentrate your actions and resources where they are most needed, i
 ## 1D. Assess the Conservation Situation
 
 **Situation Analysis**
+
 This sub-step builds on work you have already done related to your project context (scope, focal values, and direct threats). These are all elements of a **situation analysis** that helps your team and partners develop a common understanding of the relationships among the biological environment and the social, economic, political, and institutional systems (and associated actors) that affect your focal values. By understanding the context, behaviors, and key actors, you will be better equipped for designing actions that will achieve your conservation goals and objectives. Depending upon the scale of the project and available resources, a situation analysis can be an in depth, formal study or a less formal description based on input from those familiar with the context. In this sub-step, you should review available evidence, identifying the key **contributing factors** that drive direct threats and affect the viability of your biodiversity focal values. These include **indirect** **threats** (also known as root causes and **drivers** ), **opportunities**, and biophysical factors. To the degree that it is feasible and useful, you should identify the actors behind key factors for clarity, and you should keep track of any knowledge gaps.
 
 If your team will be doing more in depth studies, some useful tools include market analyses, political economy analyses, and interested parties assessments. A market analysis can help identify how human behavior responds to economic incentives and how this behavior can adversely affect focal values. A political economy analysis can be a helpful and structured approach to examine power dynamics and economic and social forces that influence development. Likewise, an interested parties assessment can help clarify and differentiate the key actors, their roles, primary interests, level of influence, and opportunity for engagement. It is important to consider both influential parties and those that might be disadvantaged or marginalized. In particular, teams should consider how their process might influence the representation and engagement of different parties in decision making and how that might ultimately affect their wellbeing.
@@ -176,6 +181,7 @@ If your team will be doing more in depth studies, some useful tools include mark
 As you do your interested parties assessment, keep in mind which are likely to be important strategic partners for the project (Step 1A), whose behavior you want to affect, and/or whose voice you want to elevate. Whether you want to influence policy making, law enforcement, corporate practice, producer choices, or consumer decisions, all involve attitude and/or behavior change. Having a good understanding of the actors (including their motivations for, barriers to, and local context for behavior change) is crucial to developing a situation analysis and designing effective actions (Step 2A). Additionally, it is essential to ensure rights to obtain **Free, Prior, and Informed** **Consent (FPIC)**, so as to protect the rights of communities in any decision making that will impact their livelihoods, lands, or natural resources.
 
 **Situation Model**
+
 One way to synthesize and document threats, opportunities, and key actors identified in your situation analysis is to construct a **situation model** (also known as a conceptual model). A situation model is a diagram that visually portrays the relationships among the different **factors** in your situation analysia. See {numref}`5context` for a generic model and {numref}`6ex` for an example based on a placebased project. A good model illustrates the main cause-and-effect relationships that exist within the project scope and the key actors involved. It should include the most important details, yet be as simple as possible. To this end, a situation model for a large scale project may need to be at a coarser grain than a model for a small scale project.
 
 To make sure that your situation model generally represents your team’s understanding of your context, it is good to build it together and base it, as much as possible, on existing evidence and diverse knowledge systems. It may also be useful to develop a spatial map of your situation. For both your situation model and spatial map, it is ideal to review them with key actors, interested parties, and partners to make sure that the products reflect a shared understanding of the situation.
