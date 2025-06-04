@@ -143,7 +143,7 @@ Once you have settled on your priority biodiversity focal values, you need to us
 
 :::{figure} zimage/4map.png
 :name: map
-Simplified spatial maps depicting chimpanzee focal values and threats with chimpanzee habitat focal value (left) and agricultural conversion threat & habitat loss (Right). Source: Adapted for Conservation Standards use by Lilian Pintea, Jane Goodall Institute.
+Simplified spatial maps depicting chimpanzee focal values and threats with chimpanzee habitat focal value (left) and agricultural conversion threat & habitat loss (right). Source: Adapted for Conservation Standards use by Lilian Pintea, Jane Goodall Institute.
 :::
 
 When identifying threats, it is important to specify the actors (e.g., specific companies, illegal fishers, poachers). Your team may want to lump or split some threats depending on whether the actors are the same (e.g., you may split “poaching” into “poaching by organized syndicates” and “poaching by villagers”). Being explicit about the actors can assist your team with your interested parties assessment and strategy development. 
