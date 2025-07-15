@@ -10,7 +10,7 @@ The full production document in PDF format is available at the Conservation Stan
 Conversion of the Open Standards for the Practice of Conservation v5.0 used [MyST](https://https://mystmd.org), an open-source, executable book framework indexed by chapters and sub-sections. The online version can be found at [3point.xyz/cmp5](https://3point.xyz/cmp5). PDF downloads are available for individual chapters, although figure and table cross-references for the Introduction chapter are not yet rendering correctly. We will resolve this in future iterations.
 
 :::{warning} Changes to the Original Text
-Select headers, URLs, tables, and figures have been edited for brevity and to fit within the MyST executable book format. Some photos have been removed. As a result, this version is not an exact facsimile of the OS v5.0, nor has CMP endorsed this work. The original version of the Open Standards can reached by clicking the 'Open Standards' link at the top of this page.
+Select headers, URLs, tables, and figures have been edited for brevity and to fit within the MyST executable book format. Some photos have been removed. As a result, this version is not an exact facsimile of the CS v5.0, nor has CMP endorsed this work. The original version of the Open Standards can reached by clicking the 'Open Standards' link at the top of this page.
 :::
 
 ## Chapters
